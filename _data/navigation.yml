@@ -1,0 +1,20 @@
+# main links
+main:
+  - title: "research"
+    url: /research/
+  - title: "publications"
+    url: /publications/
+  - title: "CV"
+    url: /cv/
+  # - title: "Join us"
+  #   url: /join/
+  # - title: "People"
+  #   url: /people/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
