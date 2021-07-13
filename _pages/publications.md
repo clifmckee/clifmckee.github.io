@@ -2,9 +2,6 @@
 layout: single
 classes: wide
 author_profile: false
-header:
-  image: /images/canyonlands.jpg
-  caption: "Canyonlands National Park, Utah"
 permalink: /publications/
 title: "publications"
 output:
