@@ -1,7 +1,12 @@
 ---
-title: "publications"
-permalink: /publications/
+layout: single
 classes: wide
+author_profile: false
+header:
+  image: /images/new_mexico.jpg
+  caption: "Ghost Ranch, New Mexico"
+permalink: /publications/
+title: "publications"
 toc: true
 ---
 
