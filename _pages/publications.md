@@ -1,9 +1,11 @@
 ---
 layout: single
+classes: wide
 author_profile: false
 permalink: /publications/
 title: "publications"
 toc: true
+toc_float: true
 toc_label: "contents"
 ---
 
