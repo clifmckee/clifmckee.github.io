@@ -12,13 +12,13 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 ## published articles
 
-#### 2021
+**2021**
 
 **McKee CD**, Islam A, Luby SP, et al. The ecology of Nipah virus in Bangladesh: a nexus of land-use change and opportunistic feeding behavior in bats. [Viruses. 2021;13(2):169](https://doi.org/10.3390/v13020169).[&#128196;](http://clifmckee.github.io/files/2021_McKee_Viruses.pdf)
 
 **McKee C**, Bai Y, Webb C, Kosoy M. Bats are key hosts in the radiation of mammal-associated *Bartonella* bacteria. [Infection, Genetics and Evolution. 2021;89:104719](https://doi.org/10.1016/j.meegid.2021.104719).
 
-#### 2020
+**2020**
 
 Goodrich I, **McKee C**, Kosoy M. *Trypanosoma* (*Herpetosoma*) diversity in rodents and lagomorphs of New Mexico with a focus on epizootological aspects of infection in Southern Plains woodrats (*Neotoma micropus*). [PLoS ONE. 2020;15(12):e0244803](https://dx.plos.org/10.1371/journal.pone.0244803).
 
@@ -26,11 +26,11 @@ Rudolf I, Bla&#382;ejov&#225;  H, Mendel J, Strakov&#225;  P, &#352;ebesta O, Re
 
 Goodrich I, **McKee C**, Kosoy M. Longitudinal study of bacterial infectious agents in a community of small mammals in New Mexico. [Vector-Borne and Zoonotic Diseases. 2020;20(7):496-508](https://doi.org/10.1089/vbz.2019.2550).
 
-#### 2019
+**2019**
 
 **McKee CD**, Krawczyk AI, S&#225;ndor AD, G&#246;rf&#246;l T, F&#246;ldv&#225;ri M, F&#246;ldv&#225;ri G, Dekeukeleire D, Haarsma A-J, Kosoy MY, Webb CT, Sprong H. Host phylogeny, geographic overlap, and roost sharing shape parasite communities in European bats. [Frontiers in Ecology and Evolution. 2019;7:69](https://doi.org/10.3389/fevo.2019.00069).
 
-#### 2018
+**2018**
 
 Bai Y, Osinubi MOV, Osikowicz L, **McKee C**, Vora NM, Rizzo MR, Recuenco S, Davis L, Niezgoda M, Ehimiyein AM, Kia GSN, Oyemakinde A, Adeniyi OS, Gbadegesin YH, Saliman OA, Ogunniyi A, Ogunkoya AB, Kosoy MY. Human exposure to novel *Bartonella* species from contact with fruit bats. [Emerging Infectious Diseases. 2018;24(12):2317-23](https://doi.org/10.3201/eid2412.181204.).
 
@@ -44,7 +44,7 @@ Gorsich EE, **McKee CD**, Grear DA, Miller RS, Portacci K, Lindstr&#246;m T, Web
 
 **McKee CD**, Osikowicz LM, Schwedhelm TR, Bai Y, Castle KT, Kosoy MY. Survey of parasitic bacteria in bat bugs, Colorado. [Journal of Medical Entomology. 2018;55(1):237-41](https://doi.org/10.1093/jme/tjx155).
 
-#### 2017
+**2017**
 
 **McKee CD**, Kosoy MY, Bai Y, Osikowicz LM, Franka R, Gilbert AT, Boonmar S, Rupprecht CE, Peruski LF. Diversity and phylogenetic relationships among *Bartonella* strains from Thai bats. [PLoS ONE. 2017;12(7):e0181696](https://doi.org/10.1371/journal.pone.0181696).
 
@@ -52,11 +52,11 @@ Urushadze L, Bai Y, Osikowicz L, **McKee C**, Sidamonidze K, Putkaradze D, Imnad
 
 Bai Y, Urushadze L, Osikowicz L, **McKee C**, Kuzmin I, Kandaurov A, Babuadze G, Natradze I, Imnadze P, Kosoy M. Molecular survey of bacterial zoonotic agents in bats from the country of Georgia (Caucasus). [PLoS ONE. 2017;12(1):e0171175](https://doi.org/10.1371/journal.pone.0171175).
 
-#### 2016
+**2016**
 
 **McKee CD**, Hayman DTS, Kosoy MY, Webb CT. Phylogenetic and geographic patterns of bartonella host shifts among bat species. [Infection, Genetics and Evolution. 2016;44:382-94](https://doi.org/10.1016/j.meegid.2016.07.033).
 
-#### 2015
+**2015**
 
 Zinzow-Kramer WM, Horton BM, **McKee CD**, Michaud JM, Tharp GK, Thomas JW, Tuttle EM, Yi S, Maney DL. Genes located in a chromosomal inversion are correlated with territorial song in white-throated sparrows. [Genes, Brain and Behavior. 2015;14(8):641-54](https://doi.org/10.1111/gbb.12252). 
 
