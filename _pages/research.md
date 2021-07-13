@@ -7,28 +7,28 @@ header:
 permalink: /research/
 feature_row:
   - image_path: images/shiny_rana.jpg
-    title: topic 1
-    excerpt: "TBD"
-    url: /research/topic1
-    btn_label: "read more"
+    title: Hot hosts
+    excerpt: "Host heterogeneity and disease dynamics"
+    url: /research/hot-hosts
+    btn_label: "Read More"
     btn_class: "btn"
   - image_path: images/deer_rac.jpg
-    title: topic 2
-    excerpt: "TBD"
-    url: /research/topic2
-    btn_label: "read more"
+    title: Hot species
+    excerpt: "Species heterogeneity and disease dynamics"
+    url: /research/hot-species
+    btn_label: "Read More"
     btn_class: "btn"
   - image_path: images/ponds.jpg
-    title: topic3
-    excerpt: "TBD"
-    url: /research/topic3
-    btn_label: "read more"
+    title: Hot spots
+    excerpt: "Landscape heterogeneity and disease dynamics"
+    url: /research/hot-spots
+    btn_label: "Read More"
     btn_class: "btn"
 ---
 
 ## research topics
 
-TBD
+Coming soon!
 
 {% include feature_row %}
 <!--

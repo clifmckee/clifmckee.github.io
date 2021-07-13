@@ -1,16 +1,7 @@
 ---
-layout: single
-classes: wide
-author_profile: false
-permalink: /publications/
 title: "publications"
-output:
-  html_document:
-    toc: true
-    toc_depth: 3
-    toc_float:
-      collapsed: false
-      smooth_scroll: true
+permalink: /publications/
+toc: true
 ---
 
 Follow my research on [Google Scholar](https://scholar.google.com/citations?user=xxVfsMIAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Clifton-Mckee).
