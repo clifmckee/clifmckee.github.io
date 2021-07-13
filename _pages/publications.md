@@ -1,20 +1,22 @@
 ---
 layout: single
+classes: wide
 author_profile: false
 permalink: /publications/
 title: "publications"
 toc: true
-toc_sticky: false
 toc_label: "contents"
 ---
 
 Follow my research on [Google Scholar](https://scholar.google.com/citations?user=xxVfsMIAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Clifton-Mckee).
 
-## published articles
+# published articles
 
 **2021**
 
-**McKee CD**, Islam A, Luby SP, et al. The ecology of Nipah virus in Bangladesh: a nexus of land-use change and opportunistic feeding behavior in bats. [Viruses. 2021;13(2):169](https://doi.org/10.3390/v13020169).[&#128196;](http://clifmckee.github.io/files/2021_McKee_Viruses.pdf)
+Zorrilla VO, Lozano ME, Espada LJ, Kosoy M, McKee C, Valdivia HO, Arevalo H, Troyes M, Stoops CA, Fisher ML, V&#225;squez GM. Comparison of sand fly trapping approaches for vector surveillance of *Leishmania* and *Bartonella* species in ecologically distinct, endemic regions of Peru. In press at PLoS Neglected Tropical Diseases.
+
+**McKee CD**, Islam A, Luby SP, et al. The ecology of Nipah virus in Bangladesh: a nexus of land-use change and opportunistic feeding behavior in bats. [Viruses. 2021;13(2):169](https://doi.org/10.3390/v13020169). [**PDF**](http://clifmckee.github.io/files/2021_McKee_Viruses.pdf)
 
 **McKee C**, Bai Y, Webb C, Kosoy M. Bats are key hosts in the radiation of mammal-associated *Bartonella* bacteria. [Infection, Genetics and Evolution. 2021;89:104719](https://doi.org/10.1016/j.meegid.2021.104719).
 
@@ -61,3 +63,9 @@ Bai Y, Urushadze L, Osikowicz L, **McKee C**, Kuzmin I, Kandaurov A, Babuadze G,
 Zinzow-Kramer WM, Horton BM, **McKee CD**, Michaud JM, Tharp GK, Thomas JW, Tuttle EM, Yi S, Maney DL. Genes located in a chromosomal inversion are correlated with territorial song in white-throated sparrows. [Genes, Brain and Behavior. 2015;14(8):641-54](https://doi.org/10.1111/gbb.12252). 
 
 Bai Y, Hayman DTS, **McKee CD**, Kosoy MY. Classification of *Bartonella* strains associated with straw-colored fruit bats (*Eidolon helvum*) across Africa using a multi-locus sequence typing platform. [PLoS Neglected Tropical Diseases. 2015;9(1):e0003478](https://doi.org/10.1371/journal.pntd.0003478).
+
+# other contributions
+
+2019 Novel Coronavirus Research Compendium (NCRC). 2021. Available at: [https://ncrc.jhsph.edu/](https://ncrc.jhsph.edu/).
+
+K Owers, C McKee, C Hallman, K Portacci, R Miller, T Lindstrom, C Webb. 2015. USAMM R Shiny Visualization. Available at: [https://usamm-gen-net.shinyapps.io/usamm-gen-net/](https://usamm-gen-net.shinyapps.io/usamm-gen-net/).
