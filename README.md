@@ -1,1 +1,1 @@
-clifmckee.github.io
+Website built with the [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/).

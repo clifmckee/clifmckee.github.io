@@ -10,7 +10,7 @@ toc_label: "contents"
 
 Follow my research on [Google Scholar](https://scholar.google.com/citations?user=xxVfsMIAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Clifton-Mckee).
 
-# published articles
+## published articles
 
 **2021**
 
@@ -64,7 +64,7 @@ Zinzow-Kramer WM, Horton BM, **McKee CD**, Michaud JM, Tharp GK, Thomas JW, Tutt
 
 Bai Y, Hayman DTS, **McKee CD**, Kosoy MY. Classification of *Bartonella* strains associated with straw-colored fruit bats (*Eidolon helvum*) across Africa using a multi-locus sequence typing platform. [PLoS Neglected Tropical Diseases. 2015;9(1):e0003478](https://doi.org/10.1371/journal.pntd.0003478).
 
-# other contributions
+## other contributions
 
 2019 Novel Coronavirus Research Compendium (NCRC). 2021. Available at: [https://ncrc.jhsph.edu/](https://ncrc.jhsph.edu/).
 
