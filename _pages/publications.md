@@ -14,7 +14,10 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 **2021**
 
-Zorrilla VO, Lozano ME, Espada LJ, Kosoy M, McKee C, Valdivia HO, Arevalo H, Troyes M, Stoops CA, Fisher ML, V&#225;squez GM. Comparison of sand fly trapping approaches for vector surveillance of *Leishmania* and *Bartonella* species in ecologically distinct, endemic regions of Peru. [PLoS Neglected Tropical Diseases. 2021;15(7):e0009517](https://doi.org/10.1371/journal.pntd.0009517). [**PDF**](http://clifmckee.github.io/files/2021_Zorrilla_PLoS_NTD.pdf)
+Islam A, **McKee C**, Ghosh PK, Abedin J, Epstein JH, Daszak P, Luby SP, Khan SU,
+Gurley ES. Seasonality of date palm sap feeding behavior by bats in Bangladesh. [EcoHealth. 2021](https://doi.org/10.1007/s10393-021-01561-9). [**PDF**](http://clifmckee.github.io/files/2021_Islam_EcoHealth.pdf)
+
+Zorrilla VO, Lozano ME, Espada LJ, Kosoy M, **McKee C**, Valdivia HO, Arevalo H, Troyes M, Stoops CA, Fisher ML, V&#225;squez GM. Comparison of sand fly trapping approaches for vector surveillance of *Leishmania* and *Bartonella* species in ecologically distinct, endemic regions of Peru. [PLoS Neglected Tropical Diseases. 2021;15(7):e0009517](https://doi.org/10.1371/journal.pntd.0009517). [**PDF**](http://clifmckee.github.io/files/2021_Zorrilla_PLoS_NTD.pdf)
 
 **McKee CD**, Islam A, Luby SP, Salje H, Hudson PJ, Plowright RK, Gurley ES. The ecology of Nipah virus in Bangladesh: a nexus of land-use change and opportunistic feeding behavior in bats. [Viruses. 2021;13(2):169](https://doi.org/10.3390/v13020169). [**PDF**](http://clifmckee.github.io/files/2021_McKee_Viruses.pdf)
 
