@@ -12,6 +12,8 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 ## published articles
 
+<sup>†</sup>Equal contribution
+
 **2021**
 
 Islam A, **McKee C**, Ghosh PK, Abedin J, Epstein JH, Daszak P, Luby SP, Khan SU,
@@ -44,7 +46,7 @@ Kellner A, Carver S, Scorza V, McKee CD, Lappin M, Crooks KR, VandeWoude S, Anto
 
 **McKee CD**, Osikowicz LM, Schwedhelm TR, Maes SE, Enscore RE, Gage KL, Kosoy MY. Acquisition of *Bartonella elizabethae* by experimentally exposed oriental rat fleas (*Xenopsylla cheopis*; Siphonaptera, Pulicidae) and excretion of *Bartonella* DNA in flea feces. [Journal of Medical Entomology. 2018;55(5):1292-1298](https://doi.org/10.1093/jme/tjy085). [**PDF**](http://clifmckee.github.io/files/2018b_McKee_JME.pdf)
 
-Kosoy M, **McKee C**, Albayrak L, Fofanov Y. Genotyping of *Bartonella* bacteria and their animal hosts: current status and perspectives. [Parasitology. 2018;145(5):543-62](https://doi.org/10.1017/S0031182017001263). [**PDF**](http://clifmckee.github.io/files/2018_Kosoy_Parasitology.pdf)
+Kosoy M<sup>†</sup>, **McKee C**<sup>†</sup>, Albayrak L, Fofanov Y. Genotyping of *Bartonella* bacteria and their animal hosts: current status and perspectives. [Parasitology. 2018;145(5):543-62](https://doi.org/10.1017/S0031182017001263). [**PDF**](http://clifmckee.github.io/files/2018_Kosoy_Parasitology.pdf)
 
 Gorsich EE, **McKee CD**, Grear DA, Miller RS, Portacci K, Lindstr&#246;m T, Webb CT. Model-guided suggestions for targeted surveillance based on cattle shipments in the U.S. [Preventive Veterinary Medicine. 2018;150:52-9](https://doi.org/10.1016/j.prevetmed.2017.12.004). [**PDF**](http://clifmckee.github.io/files/2018_Gorsich_PVM.pdf)
 
