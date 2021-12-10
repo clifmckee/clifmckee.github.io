@@ -19,7 +19,7 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 Ruiz-Aravena M<sup>†</sup>, **McKee C**<sup>†</sup>, Gamble A, Lunn T, Morris A, Snedden CE, Yinda CK, Port JR, Buchholz DW, Yeo YY, Faust C, Jax E, Dee L, Jones DN, Kessler MK, Falvo C, Crowley D, Bharti N, Brook CE, Aguilar HC, Peel AJ, Restif O, Schountz T, Parrish CR, Gurley ES, Lloyd-Smith JO, Hudson PJ, Munster VJ, Plowright RK. Ecology, evolution and spillover of coronaviruses from bats. [Nature Reviews Microbiology. 2021](https://doi.org/10.1038/s41579-021-00652-2). [**PDF**](http://clifmckee.github.io/files/2021_Ruiz-Aravena_NatRevMicrobiol.pdf)
 
 Islam A, **McKee C**, Ghosh PK, Abedin J, Epstein JH, Daszak P, Luby SP, Khan SU,
-Gurley ES. Seasonality of date palm sap feeding behavior by bats in Bangladesh. [EcoHealth. 2021](https://doi.org/10.1007/s10393-021-01561-9). [**PDF**](http://clifmckee.github.io/files/2021_Islam_EcoHealth.pdf)
+Gurley ES. Seasonality of date palm sap feeding behavior by bats in Bangladesh. [EcoHealth. 2021;18(3):359–71](https://doi.org/10.1007/s10393-021-01561-9). [**PDF**](http://clifmckee.github.io/files/2021_Islam_EcoHealth.pdf)
 
 Zorrilla VO, Lozano ME, Espada LJ, Kosoy M, **McKee C**, Valdivia HO, Arevalo H, Troyes M, Stoops CA, Fisher ML, V&#225;squez GM. Comparison of sand fly trapping approaches for vector surveillance of *Leishmania* and *Bartonella* species in ecologically distinct, endemic regions of Peru. [PLoS Neglected Tropical Diseases. 2021;15(7):e0009517](https://doi.org/10.1371/journal.pntd.0009517). [**PDF**](http://clifmckee.github.io/files/2021_Zorrilla_PLoS_NTD.pdf)
 
