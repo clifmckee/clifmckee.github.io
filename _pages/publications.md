@@ -16,9 +16,9 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 **2021**
 
-Redd AD, Peetluk LS, Jarrett BA, Hanrahan C, Schwartz S, Rao A, Jaffe AE, Peer AD, Jones CB, Lutz CS, **McKee CD**, Patel EU, Rosen JG, Garrison Desany H, McKay HS, Muschelli J, Andersen KM, Link MA, Wada N, Baral P, Young R, Boon D, Grabowski MK, Gurley ES, the Novel Coronavirus Research Compendium Team. Curating the evidence about COVID-19 for frontline public health and clinical care: the Novel Coronavirus Research Compendium. [Public Health Reports. 2021](https://doi.org/10.1177/00333549211058732). [**PDF**](http://clifmckee.github.io/files/2021_Redd_PHR.pdf)
-
 Ruiz-Aravena M<sup>†</sup>, **McKee C**<sup>†</sup>, Gamble A, Lunn T, Morris A, Snedden CE, Yinda CK, Port JR, Buchholz DW, Yeo YY, Faust C, Jax E, Dee L, Jones DN, Kessler MK, Falvo C, Crowley D, Bharti N, Brook CE, Aguilar HC, Peel AJ, Restif O, Schountz T, Parrish CR, Gurley ES, Lloyd-Smith JO, Hudson PJ, Munster VJ, Plowright RK. Ecology, evolution and spillover of coronaviruses from bats. [Nature Reviews Microbiology. 2021](https://doi.org/10.1038/s41579-021-00652-2). [**PDF**](http://clifmckee.github.io/files/2021_Ruiz-Aravena_NatRevMicrobiol.pdf)
+
+Redd AD, Peetluk LS, Jarrett BA, Hanrahan C, Schwartz S, Rao A, Jaffe AE, Peer AD, Jones CB, Lutz CS, **McKee CD**, Patel EU, Rosen JG, Garrison Desany H, McKay HS, Muschelli J, Andersen KM, Link MA, Wada N, Baral P, Young R, Boon D, Grabowski MK, Gurley ES, the Novel Coronavirus Research Compendium Team. Curating the evidence about COVID-19 for frontline public health and clinical care: the Novel Coronavirus Research Compendium. [Public Health Reports. 2021](https://doi.org/10.1177/00333549211058732). [**PDF**](http://clifmckee.github.io/files/2021_Redd_PHR.pdf)
 
 Islam A, **McKee C**, Ghosh PK, Abedin J, Epstein JH, Daszak P, Luby SP, Khan SU,
 Gurley ES. Seasonality of date palm sap feeding behavior by bats in Bangladesh. [EcoHealth. 2021;18(3):359–71](https://doi.org/10.1007/s10393-021-01561-9). [**PDF**](http://clifmckee.github.io/files/2021_Islam_EcoHealth.pdf)
