@@ -16,6 +16,8 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 **2022**
 
+Goodrich I, **McKee C**, Margos G, Kosoy M. Molecular characterization of a novel relapsing fever *Borrelia* species from the desert cottontail (*Sylvilagus audubonii*) in New Mexico, USA. In press at [Journal of Wildlife Diseases](https://meridian.allenpress.com/jwd/article-abstract/doi/10.7589/JWD-D-21-00148/483308/Molecular-characterization-of-a-novel-relapsing).
+
 Rice BL<sup>†</sup> , Lessler J<sup>†</sup> , **McKee C**<sup>†</sup> , Metcalf CJE<sup>†</sup> . Why do some coronaviruses become pandemic threats when others do not? [PLoS Biology. 2022;20(5):e3001652](https://doi.org/10.1371/journal.pbio.3001652). [**PDF**](http://clifmckee.github.io/files/2022_Rice_PLoS_Biol.pdf)
 
 Ruiz-Aravena M<sup>†</sup>, **McKee C**<sup>†</sup>, Gamble A, Lunn T, Morris A, Snedden CE, Yinda CK, Port JR, Buchholz DW, Yeo YY, Faust C, Jax E, Dee L, Jones DN, Kessler MK, Falvo C, Crowley D, Bharti N, Brook CE, Aguilar HC, Peel AJ, Restif O, Schountz T, Parrish CR, Gurley ES, Lloyd-Smith JO, Hudson PJ, Munster VJ, Plowright RK. Ecology, evolution and spillover of coronaviruses from bats. [Nature Reviews Microbiology. 2022;20:299–314](https://doi.org/10.1038/s41579-021-00652-2). [**PDF**](http://clifmckee.github.io/files/2022_Ruiz-Aravena_NatRevMicrobiol.pdf)
