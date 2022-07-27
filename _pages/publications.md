@@ -16,7 +16,7 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 **2022**
 
-Goodrich I, **McKee C**, Margos G, Kosoy M. Molecular characterization of a novel relapsing fever *Borrelia* species from the desert cottontail (*Sylvilagus audubonii*) in New Mexico, USA. In press at [Journal of Wildlife Diseases](https://meridian.allenpress.com/jwd/article-abstract/doi/10.7589/JWD-D-21-00148/483308/Molecular-characterization-of-a-novel-relapsing).
+Goodrich I, **McKee C**, Margos G, Kosoy M. Molecular characterization of a novel relapsing fever *Borrelia* species from the desert cottontail (*Sylvilagus audubonii*) in New Mexico, USA. [Journal of Wildlife Diseases. 2022;58(3):646-651](https://doi.org/10.7589/JWD-D-21-00148). [**PDF**](http://clifmckee.github.io/files/2022_Goodrich_JWD.pdf)
 
 **McKee CD**<sup>†</sup>, Islam A<sup>†</sup>, Rahman MZ, Khan SU, Rahman M, Satter SM, Islam A, Yinda CK, Epstein JH, Daszak P, Munster VJ, Hudson PJ, Plowright RK, Luby SP, Gurley ES. Nipah virus detection at bat roosts after spillover events, Bangladesh, 2012–2019. [Emerging Infectious Diseases. 2022;28(7):1384-1392](https://doi.org/10.3201/eid2807.212614). [**PDF**](http://clifmckee.github.io/files/2022_McKee_EID.pdf)
 
