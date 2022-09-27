@@ -16,13 +16,17 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 **2022**
 
+Kejikova R, **McKee C**, Strakova P, Sikutova S, Mendel J, Rudolf I. First detection of *Bartonella* spp. in bat bugs *Cimex pipistrelli* (Hemiptera: Cimicidae), Central Europe. [Parasitology Research. 2022](https://doi.org/10.1007/s00436-022-07668-4).
+
+Seidlova V, Strakova P, Kejikova R, Nemcova M, Bartonicka T, Salqt, Dufkova L, Sikutova S, Mendel J, **McKee C**, Zukal J, Pikula J, Rudolf I. Detection of *Leptospira* species in bat cadavers, Czech and Slovak Republics. [Emerging Microbes & Infections. 2022;11(1):2211-2213](https://doi.org/10.1080/22221751.2022.2117095). [**PDF**](http://clifmckee.github.io/files/2022_Seidlova_Emerg_Microbes_Infect.pdf)
+
 Goodrich I, **McKee C**, Margos G, Kosoy M. Molecular characterization of a novel relapsing fever *Borrelia* species from the desert cottontail (*Sylvilagus audubonii*) in New Mexico, USA. [Journal of Wildlife Diseases. 2022;58(3):646-651](https://doi.org/10.7589/JWD-D-21-00148). [**PDF**](http://clifmckee.github.io/files/2022_Goodrich_JWD.pdf)
 
 **McKee CD**<sup>†</sup>, Islam A<sup>†</sup>, Rahman MZ, Khan SU, Rahman M, Satter SM, Islam A, Yinda CK, Epstein JH, Daszak P, Munster VJ, Hudson PJ, Plowright RK, Luby SP, Gurley ES. Nipah virus detection at bat roosts after spillover events, Bangladesh, 2012–2019. [Emerging Infectious Diseases. 2022;28(7):1384-1392](https://doi.org/10.3201/eid2807.212614). [**PDF**](http://clifmckee.github.io/files/2022_McKee_EID.pdf)
 
 Rice BL<sup>†</sup>, Lessler J<sup>†</sup>, **McKee C**<sup>†</sup>, Metcalf CJE<sup>†</sup>. Why do some coronaviruses become pandemic threats when others do not? [PLoS Biology. 2022;20(5):e3001652](https://doi.org/10.1371/journal.pbio.3001652). [**PDF**](http://clifmckee.github.io/files/2022_Rice_PLoS_Biol.pdf)
 
-Ruiz-Aravena M<sup>†</sup>, **McKee C**<sup>†</sup>, Gamble A, Lunn T, Morris A, Snedden CE, Yinda CK, Port JR, Buchholz DW, Yeo YY, Faust C, Jax E, Dee L, Jones DN, Kessler MK, Falvo C, Crowley D, Bharti N, Brook CE, Aguilar HC, Peel AJ, Restif O, Schountz T, Parrish CR, Gurley ES, Lloyd-Smith JO, Hudson PJ, Munster VJ, Plowright RK. Ecology, evolution and spillover of coronaviruses from bats. [Nature Reviews Microbiology. 2022;20:299–314](https://doi.org/10.1038/s41579-021-00652-2). [**PDF**](http://clifmckee.github.io/files/2022_Ruiz-Aravena_NatRevMicrobiol.pdf)
+Ruiz-Aravena M<sup>†</sup>, **McKee C**<sup>†</sup>, Gamble A, Lunn T, Morris A, Snedden CE, Yinda CK, Port JR, Buchholz DW, Yeo YY, Faust C, Jax E, Dee L, Jones DN, Kessler MK, Falvo C, Crowley D, Bharti N, Brook CE, Aguilar HC, Peel AJ, Restif O, Schountz T, Parrish CR, Gurley ES, Lloyd-Smith JO, Hudson PJ, Munster VJ, Plowright RK. Ecology, evolution and spillover of coronaviruses from bats. [Nature Reviews Microbiology. 2022;20:299–314](https://doi.org/10.1038/s41579-021-00652-2). [**PDF**](http://clifmckee.github.io/files/2022_Ruiz-Aravena_Nat_Rev_Microbiol.pdf)
 
 Redd AD, Peetluk LS, Jarrett BA, Hanrahan C, Schwartz S, Rao A, Jaffe AE, Peer AD, Jones CB, Lutz CS, **McKee CD**, Patel EU, Rosen JG, Garrison Desany H, McKay HS, Muschelli J, Andersen KM, Link MA, Wada N, Baral P, Young R, Boon D, Grabowski MK, Gurley ES, the Novel Coronavirus Research Compendium Team. Curating the evidence about COVID-19 for frontline public health and clinical care: the Novel Coronavirus Research Compendium. [Public Health Reports. 2022;137(2):197-202](https://doi.org/10.1177/00333549211058732). [**PDF**](http://clifmckee.github.io/files/2022_Redd_PHR.pdf)
 
