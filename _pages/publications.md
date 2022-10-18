@@ -16,7 +16,7 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 **2022**
 
-Kejikova R, **McKee C**, Strakova P, Sikutova S, Mendel J, Rudolf I. First detection of *Bartonella* spp. in bat bugs *Cimex pipistrelli* (Hemiptera: Cimicidae), Central Europe. [Parasitology Research. 2022](https://doi.org/10.1007/s00436-022-07668-4).
+Kejikova R, **McKee C**, Strakova P, Sikutova S, Mendel J, Rudolf I. First detection of *Bartonella* spp. in bat bugs *Cimex pipistrelli* (Hemiptera: Cimicidae), Central Europe. [Parasitology Research. 2022;121:3341-3345](https://doi.org/10.1007/s00436-022-07668-4). [**PDF**](http://clifmckee.github.io/files/2022_Kejikova_Parasitology_Res.pdf)
 
 Seidlova V, Strakova P, Kejikova R, Nemcova M, Bartonicka T, Salqt, Dufkova L, Sikutova S, Mendel J, **McKee C**, Zukal J, Pikula J, Rudolf I. Detection of *Leptospira* species in bat cadavers, Czech and Slovak Republics. [Emerging Microbes & Infections. 2022;11(1):2211-2213](https://doi.org/10.1080/22221751.2022.2117095). [**PDF**](http://clifmckee.github.io/files/2022_Seidlova_Emerg_Microbes_Infect.pdf)
 
