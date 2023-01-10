@@ -86,7 +86,7 @@ Bai Y, Hayman DTS, **McKee CD**, Kosoy MY. Classification of *Bartonella* strain
 
 ## preprint articles
 
-**McKee CD**, Webb CT, Kosoy MY, Bai Y, Osikowicz LM, Suu-Ire R, Ntiamoa-Baidu Y, Cunningham AA, Wood JL, Hayman DT. Manipulating vector transmission reveals local processes in bacterial communities of bats. [bioRxiv. 2021](https://doi.org/10.1101/2021.03.03.433743).
+**McKee CD**, Webb CT, Kosoy MY, Bai Y, Osikowicz LM, Suu-Ire R, Ntiamoa-Baidu Y, Cunningham AA, Wood JL, Hayman DT. Manipulating vector transmission reveals local processes in bacterial communities of bats. [bioRxiv. 2021](https://doi.org/10.1101/2021.03.03.433743). [**PDF**](http://clifmckee.github.io/files/2021_McKee_bioRxiv.pdf)
 
 ## other contributions
 
