@@ -24,7 +24,7 @@ Goodrich I, **McKee C**, Margos G, Kosoy M. Molecular characterization of a nove
 
 **McKee CD**<sup>†</sup>, Islam A<sup>†</sup>, Rahman MZ, Khan SU, Rahman M, Satter SM, Islam A, Yinda CK, Epstein JH, Daszak P, Munster VJ, Hudson PJ, Plowright RK, Luby SP, Gurley ES. Nipah virus detection at bat roosts after spillover events, Bangladesh, 2012–2019. [Emerging Infectious Diseases. 2022; 28(7): 1384--1392](https://doi.org/10.3201/eid2807.212614). [**PDF**](http://clifmckee.github.io/files/2022_McKee_EID.pdf)
 
-Rice BL<sup>†</sup>, Lessler J<sup>†</sup>, **McKee C**<sup>†</sup>, Metcalf CJE<sup>†</sup>. Why do some coronaviruses become pandemic threats when others do not? [PLOS Biology. 2022; 20(5): e3001652](https://doi.org/10.1371/journal.pbio.3001652). [**PDF**](http://clifmckee.github.io/files/2022_Rice_PLOS_Biol.pdf)
+Rice BL<sup>†</sup>, Lessler J<sup>†</sup>, **McKee C**<sup>†</sup>, Metcalf CJE<sup>†</sup>. Why do some coronaviruses become pandemic threats when others do not? [PLOS Biology. 2022; 20(5): e3001652](https://doi.org/10.1371/journal.pbio.3001652). [**PDF**](http://clifmckee.github.io/files/2022_Rice_PLoS_Biol.pdf)
 
 Ruiz-Aravena M<sup>†</sup>, **McKee C**<sup>†</sup>, Gamble A, Lunn T, Morris A, Snedden CE, Yinda CK, Port JR, Buchholz DW, Yeo YY, Faust C, Jax E, Dee L, Jones DN, Kessler MK, Falvo C, Crowley D, Bharti N, Brook CE, Aguilar HC, Peel AJ, Restif O, Schountz T, Parrish CR, Gurley ES, Lloyd-Smith JO, Hudson PJ, Munster VJ, Plowright RK. Ecology, evolution and spillover of coronaviruses from bats. [Nature Reviews Microbiology. 2022; 20: 299--314](https://doi.org/10.1038/s41579-021-00652-2). [**PDF**](http://clifmckee.github.io/files/2022_Ruiz-Aravena_Nat_Rev_Microbiol.pdf)
 
@@ -34,7 +34,7 @@ Redd AD, Peetluk LS, Jarrett BA, Hanrahan C, Schwartz S, Rao A, Jaffe AE, Peer A
 
 Islam A, **McKee C**, Ghosh PK, Abedin J, Epstein JH, Daszak P, Luby SP, Khan SU, Gurley ES. Seasonality of date palm sap feeding behavior by bats in Bangladesh. [EcoHealth. 2021; 18: 359--371](https://doi.org/10.1007/s10393-021-01561-9). [**PDF**](http://clifmckee.github.io/files/2021_Islam_EcoHealth.pdf)
 
-Zorrilla VO, Lozano ME, Espada LJ, Kosoy M, **McKee C**, Valdivia HO, Arevalo H, Troyes M, Stoops CA, Fisher ML, Vásquez GM. Comparison of sand fly trapping approaches for vector surveillance of *Leishmania* and *Bartonella* species in ecologically distinct, endemic regions of Peru. [PLOS Neglected Tropical Diseases. 2021; 15(7): e0009517](https://doi.org/10.1371/journal.pntd.0009517). [**PDF**](http://clifmckee.github.io/files/2021_Zorrilla_PLOS_NTD.pdf)
+Zorrilla VO, Lozano ME, Espada LJ, Kosoy M, **McKee C**, Valdivia HO, Arevalo H, Troyes M, Stoops CA, Fisher ML, Vásquez GM. Comparison of sand fly trapping approaches for vector surveillance of *Leishmania* and *Bartonella* species in ecologically distinct, endemic regions of Peru. [PLOS Neglected Tropical Diseases. 2021; 15(7): e0009517](https://doi.org/10.1371/journal.pntd.0009517). [**PDF**](http://clifmckee.github.io/files/2021_Zorrilla_PLoS_NTD.pdf)
 
 **McKee CD**, Islam A, Luby SP, Salje H, Hudson PJ, Plowright RK, Gurley ES. The ecology of Nipah virus in Bangladesh: a nexus of land-use change and opportunistic feeding behavior in bats. [Viruses. 2021; 13(2): 169](https://doi.org/10.3390/v13020169). [**PDF**](http://clifmckee.github.io/files/2021_McKee_Viruses.pdf)
 
@@ -42,7 +42,7 @@ Zorrilla VO, Lozano ME, Espada LJ, Kosoy M, **McKee C**, Valdivia HO, Arevalo H,
 
 **2020**
 
-Goodrich I, **McKee C**, Kosoy M. *Trypanosoma* (*Herpetosoma*) diversity in rodents and lagomorphs of New Mexico with a focus on epizootological aspects of infection in Southern Plains woodrats (*Neotoma micropus*). [PLOS ONE. 2020; 15(12): e0244803](https://doi.org/10.1371/journal.pone.0244803). [**PDF**](http://clifmckee.github.io/files/2020_Goodrich_PLOS_ONE.pdf)
+Goodrich I, **McKee C**, Kosoy M. *Trypanosoma* (*Herpetosoma*) diversity in rodents and lagomorphs of New Mexico with a focus on epizootological aspects of infection in Southern Plains woodrats (*Neotoma micropus*). [PLOS ONE. 2020; 15(12): e0244803](https://doi.org/10.1371/journal.pone.0244803). [**PDF**](http://clifmckee.github.io/files/2020_Goodrich_PLoS_ONE.pdf)
 
 Rudolf I, Blažejová H, Mendel J, Straková P, Šebesta O, Rettich F, Čabanová V, Miterpáková M, Betášová L, Peško J, Barbušinová E, **McKee C**, Osikowicz L, Šikutová S, Hubálek Z, Kosoy M. *Bartonella* species in medically important mosquitoes, Central Europe. [Parasitology Research. 2020; 119(8): 2713--2717](https://doi.org/10.1007/s00436-020-06732-1). [**PDF**](http://clifmckee.github.io/files/2020_Rudolf_Parasitology_Res.pdf)
 
@@ -68,11 +68,11 @@ Gorsich EE, **McKee CD**, Grear DA, Miller RS, Portacci K, Lindström T, Webb CT
 
 **2017**
 
-**McKee CD**, Kosoy MY, Bai Y, Osikowicz LM, Franka R, Gilbert AT, Boonmar S, Rupprecht CE, Peruski LF. Diversity and phylogenetic relationships among *Bartonella* strains from Thai bats. [PLOS ONE. 2017; 12(7): e0181696](https://doi.org/10.1371/journal.pone.0181696). [**PDF**](http://clifmckee.github.io/files/2017_McKee_PLOS_ONE.pdf)
+**McKee CD**, Kosoy MY, Bai Y, Osikowicz LM, Franka R, Gilbert AT, Boonmar S, Rupprecht CE, Peruski LF. Diversity and phylogenetic relationships among *Bartonella* strains from Thai bats. [PLOS ONE. 2017; 12(7): e0181696](https://doi.org/10.1371/journal.pone.0181696). [**PDF**](http://clifmckee.github.io/files/2017_McKee_PLoS_ONE.pdf)
 
-Urushadze L, Bai Y, Osikowicz L, **McKee C**, Sidamonidze K, Putkaradze D, Imnadze P, Kandaurov A, Kuzmin I, Kosoy M. Prevalence, diversity, and host associations of *Bartonella* strains in bats from Georgia (Caucasus). [PLOS Neglected Tropical Diseases. 2017; 11(4): e0005428](https://doi.org/10.1371/journal.pntd.0005428). [**PDF**](http://clifmckee.github.io/files/2017_Urushadze_PLOS_NTD.pdf)
+Urushadze L, Bai Y, Osikowicz L, **McKee C**, Sidamonidze K, Putkaradze D, Imnadze P, Kandaurov A, Kuzmin I, Kosoy M. Prevalence, diversity, and host associations of *Bartonella* strains in bats from Georgia (Caucasus). [PLOS Neglected Tropical Diseases. 2017; 11(4): e0005428](https://doi.org/10.1371/journal.pntd.0005428). [**PDF**](http://clifmckee.github.io/files/2017_Urushadze_PLoS_NTD.pdf)
 
-Bai Y, Urushadze L, Osikowicz L, **McKee C**, Kuzmin I, Kandaurov A, Babuadze G, Natradze I, Imnadze P, Kosoy M. Molecular survey of bacterial zoonotic agents in bats from the country of Georgia (Caucasus). [PLOS ONE. 2017; 12(1): e0171175](https://doi.org/10.1371/journal.pone.0171175). [**PDF**](http://clifmckee.github.io/files/2017_Bai_PLOS_ONE.pdf)
+Bai Y, Urushadze L, Osikowicz L, **McKee C**, Kuzmin I, Kandaurov A, Babuadze G, Natradze I, Imnadze P, Kosoy M. Molecular survey of bacterial zoonotic agents in bats from the country of Georgia (Caucasus). [PLOS ONE. 2017; 12(1): e0171175](https://doi.org/10.1371/journal.pone.0171175). [**PDF**](http://clifmckee.github.io/files/2017_Bai_PLoS_ONE.pdf)
 
 **2016**
 
@@ -82,7 +82,7 @@ Bai Y, Urushadze L, Osikowicz L, **McKee C**, Kuzmin I, Kandaurov A, Babuadze G,
 
 Zinzow-Kramer WM, Horton BM, **McKee CD**, Michaud JM, Tharp GK, Thomas JW, Tuttle EM, Yi S, Maney DL. Genes located in a chromosomal inversion are correlated with territorial song in white-throated sparrows. [Genes, Brain and Behavior. 2015; 14(8): 641--654](https://doi.org/10.1111/gbb.12252). [**PDF**](http://clifmckee.github.io/files/2015_ZinzowKramer_GBB.pdf)
 
-Bai Y, Hayman DTS, **McKee CD**, Kosoy MY. Classification of *Bartonella* strains associated with straw-colored fruit bats (*Eidolon helvum*) across Africa using a multi-locus sequence typing platform. [PLOS Neglected Tropical Diseases. 2015; 9(1): e0003478](https://doi.org/10.1371/journal.pntd.0003478). [**PDF**](http://clifmckee.github.io/files/2015_Bai_PLOS_NTD.pdf)
+Bai Y, Hayman DTS, **McKee CD**, Kosoy MY. Classification of *Bartonella* strains associated with straw-colored fruit bats (*Eidolon helvum*) across Africa using a multi-locus sequence typing platform. [PLOS Neglected Tropical Diseases. 2015; 9(1): e0003478](https://doi.org/10.1371/journal.pntd.0003478). [**PDF**](http://clifmckee.github.io/files/2015_Bai_PLoS_NTD.pdf)
 
 ## preprint articles
 
