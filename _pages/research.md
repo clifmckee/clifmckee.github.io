@@ -1,6 +1,6 @@
 ---
 layout: splash
-author_profile: false
+author_profile: true
 header:
   image: /images/green_salamander.jpg
   caption: "Green Salamander (*Aneides aeneus*), Obed River, Tennessee"
