@@ -4,8 +4,8 @@ main:
     url: /publications/
   # - title: "CV"
   #   url: /cv/
-  # - title: "research"
-  #   url: /research/
+  - title: "research"
+    url: /research/
   # - title: "Join us"
   #   url: /join/
   # - title: "People"
