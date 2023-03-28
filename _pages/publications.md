@@ -14,6 +14,10 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 <sup>†</sup>Equal contribution
 
+**2023**
+
+Szentiványi T, **McKee C**, Jones G, Foster JT. Trends in bacterial pathogens of bats: global distribution and knowledge gaps. [Transboundary and Emerging Diseases. 2023; 9285855](https://doi.org/10.1155/2023/9285855). [**PDF**](http://clifmckee.github.io/files/2023_Szentivanyi_TBED.pdf)
+
 **2022**
 
 Seidlova V, Straková P, Kejíková R, Nemcova M, Bartonička T, Salát J, Dufková L, Šikutová S, Mendel J, **McKee C**, Zukal J, Pikula J, Rudolf I. Detection of *Leptospira* species in bat cadavers, Czech and Slovak Republics. [Emerging Microbes & Infections. 2022; 11(1): 2211--2213](https://doi.org/10.1080/22221751.2022.2117095). [**PDF**](http://clifmckee.github.io/files/2022_Seidlova_Emerg_Microbes_Infect.pdf)
