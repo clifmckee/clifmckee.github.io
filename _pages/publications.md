@@ -90,10 +90,16 @@ Bai Y, Hayman DTS, **McKee CD**, Kosoy MY. Classification of *Bartonella* strain
 
 ## preprint articles
 
+Cortés Azuero O, Lefrancq N, Nikolay B, **McKee C**, Cappelle J, Hul V, Ou TP, Hoem T, Lemey P, Rahman MZ, Islam A, Gurley ES, Duong V, Salje H. The genetic diversity of Nipah virus across spatial scales. [medRxiv. 2023](https://doi.org/10.1101/2023.07.14.23292668). [**PDF**](http://clifmckee.github.io/files/2023_Cortes-Azuero_medRxiv.pdf)
+
+Howerton E, Contamin L, Mullany LC, Qin MM, Reich NG, Bents SJ, Borchering RK, Jung SM, Loo SL, Smith CP, Levander J, ..., **McKee C**, ..., Viboud C, Lessler J. Informing pandemic response in the face of uncertainty. An evaluation of the US COVID-19 Scenario Modeling Hub. [medRxiv. 2023](https://doi.org/10.1101/2023.06.28.23291998). [**PDF**](http://clifmckee.github.io/files/2023_Howerton_medRxiv.pdf)
+
 **McKee CD**, Webb CT, Kosoy MY, Bai Y, Osikowicz LM, Suu-Ire R, Ntiamoa-Baidu Y, Cunningham AA, Wood JL, Hayman DT. Manipulating vector transmission reveals local processes in bacterial communities of bats. [bioRxiv. 2021](https://doi.org/10.1101/2021.03.03.433743). [**PDF**](http://clifmckee.github.io/files/2021_McKee_bioRxiv.pdf)
 
 ## other contributions
 
+The Flexible Epidemic Modeling Pipeline (flepiMoP): a software suite for simulating a wide range of compartmental models of infectious disease transmission. Available at: [https://www.flepimop.org/](https://www.flepimop.org/).
+
 2019 Novel Coronavirus Research Compendium (NCRC). 2021. Available at: [https://ncrc.jhsph.edu/](https://ncrc.jhsph.edu/).
 
-Owers K, McKee C, Hallman C, Portacci L, Miller R, Lindstr&#246;m T, Webb C. 2015. USAMM R Shiny Visualization. Available at: [https://usamm-gen-net.shinyapps.io/usamm-gen-net/](https://usamm-gen-net.shinyapps.io/usamm-gen-net/).
+Owers K, McKee C, Hallman C, Portacci L, Miller R, Lindström T, Webb C. 2015. USAMM R Shiny Visualization. Available at: [https://usamm-gen-net.shinyapps.io/usamm-gen-net/](https://usamm-gen-net.shinyapps.io/usamm-gen-net/).
