@@ -16,6 +16,8 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 **2023**
 
+Fagre AC, Islam A, Reeves WK, Kading RC, Plowright RK, Gurley ES, **McKee CD**. *Bartonella* infection in fruit bats and bat flies, Bangladesh. [Microbial Ecology. 2023](https://doi.org/10.1155/2023/9285855). [**PDF**](http://clifmckee.github.io/files/2023_Fagre_Microb_Ecol.pdf)
+
 Szentiványi T, **McKee C**, Jones G, Foster JT. Trends in bacterial pathogens of bats: global distribution and knowledge gaps. [Transboundary and Emerging Diseases. 2023; 9285855](https://doi.org/10.1155/2023/9285855). [**PDF**](http://clifmckee.github.io/files/2023_Szentivanyi_TBED.pdf)
 
 **2022**
