@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "about"
+  - title: "About"
     url: /
   # - title: "research"
   #   url: /research/
-  - title: "publications"
+  - title: "Publications"
     url: /publications/
   # - title: "Join us"
   #   url: /join/

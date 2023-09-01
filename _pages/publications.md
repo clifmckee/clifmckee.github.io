@@ -3,14 +3,14 @@ layout: single
 classes: wide
 author_profile: false
 permalink: /publications/
-title: "publications"
+title: "Publications"
 toc: true
-toc_label: "contents"
+toc_label: "Contents"
 ---
 
 Follow my research on [Google Scholar](https://scholar.google.com/citations?user=xxVfsMIAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Clifton-Mckee).
 
-## peer-reviewed articles
+## Peer-reviewed articles
 
 <sup>†</sup>Equal contribution
 
@@ -88,7 +88,7 @@ Zinzow-Kramer WM, Horton BM, **McKee CD**, Michaud JM, Tharp GK, Thomas JW, Tutt
 
 Bai Y, Hayman DTS, **McKee CD**, Kosoy MY. Classification of *Bartonella* strains associated with straw-colored fruit bats (*Eidolon helvum*) across Africa using a multi-locus sequence typing platform. [PLOS Neglected Tropical Diseases. 2015; 9(1): e0003478](https://doi.org/10.1371/journal.pntd.0003478). [**PDF**](http://clifmckee.github.io/files/2015_Bai_PLoS_NTD.pdf)
 
-## preprint articles
+## Preprints
 
 Cortés Azuero O, Lefrancq N, Nikolay B, **McKee C**, Cappelle J, Hul V, Ou TP, Hoem T, Lemey P, Rahman MZ, Islam A, Gurley ES, Duong V, Salje H. The genetic diversity of Nipah virus across spatial scales. [medRxiv. 2023](https://doi.org/10.1101/2023.07.14.23292668). [**PDF**](http://clifmckee.github.io/files/2023_Cortes-Azuero_medRxiv.pdf)
 
@@ -96,7 +96,7 @@ Howerton E, Contamin L, Mullany LC, Qin MM, Reich NG, Bents SJ, Borchering RK, J
 
 **McKee CD**, Webb CT, Kosoy MY, Bai Y, Osikowicz LM, Suu-Ire R, Ntiamoa-Baidu Y, Cunningham AA, Wood JL, Hayman DT. Manipulating vector transmission reveals local processes in bacterial communities of bats. [bioRxiv. 2021](https://doi.org/10.1101/2021.03.03.433743). [**PDF**](http://clifmckee.github.io/files/2021_McKee_bioRxiv.pdf)
 
-## other contributions
+## Other contributions
 
 The Flexible Epidemic Modeling Pipeline (flepiMoP): a software suite for simulating a wide range of compartmental models of infectious disease transmission. Available at: [https://www.flepimop.org/](https://www.flepimop.org/).
 
