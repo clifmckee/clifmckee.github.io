@@ -96,6 +96,8 @@ Cortés Azuero O, Lefrancq N, Nikolay B, **McKee C**, Cappelle J, Hul V, Ou TP, 
 
 Howerton E, Contamin L, Mullany LC, Qin MM, Reich NG, Bents SJ, Borchering RK, Jung SM, Loo SL, Smith CP, Levander J, ..., **McKee C**, ..., Viboud C, Lessler J. Informing pandemic response in the face of uncertainty. An evaluation of the US COVID-19 Scenario Modeling Hub. [medRxiv. 2023](https://doi.org/10.1101/2023.06.28.23291998). [**PDF**](http://clifmckee.github.io/files/2023_Howerton_medRxiv.pdf)
 
+Jung S-m, Loo SL, Howerton E, Contamin L, Smith CP, Carcelén EC, Yan K, Bents SJ, Levander J, Espino J, Reich NG,..., **McKee C**, ..., Viboud C, Lessler J. Potential impact of annual vaccination with reformulated COVID-19 vaccines: lessons from the U.S. COVID- 19 Scenario Modeling Hub. [medRxiv. 2023](https://doi.org/10.1101/2023.10.26.23297581 ). [**PDF**](http://clifmckee.github.io/files/2023_Jung_medRxiv.pdf)
+
 **McKee CD**, Webb CT, Kosoy MY, Bai Y, Osikowicz LM, Suu-Ire R, Ntiamoa-Baidu Y, Cunningham AA, Wood JL, Hayman DT. Manipulating vector transmission reveals local processes in bacterial communities of bats. [bioRxiv. 2021](https://doi.org/10.1101/2021.03.03.433743). [**PDF**](http://clifmckee.github.io/files/2021_McKee_bioRxiv.pdf)
 
 ## Other contributions
