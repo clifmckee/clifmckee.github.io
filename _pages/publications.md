@@ -16,7 +16,9 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 **2023**
 
-Fagre AC, Islam A, Reeves WK, Kading RC, Plowright RK, Gurley ES, **McKee CD**. *Bartonella* infection in fruit bats and bat flies, Bangladesh. [Microbial Ecology. 2023](https://doi.org/10.1155/2023/9285855). [**PDF**](http://clifmckee.github.io/files/2023_Fagre_Microb_Ecol.pdf)
+Howerton E, Contamin L, Mullany LC, Qin MM, Reich NG, Bents SJ, Borchering RK, Jung SM, Loo SL, Smith CP, Levander J, ..., **McKee C**, ..., Viboud C, Lessler J. Evaluation of the US COVID-19 Scenario Modeling Hub for informing pandemic response under uncertainty. [Nature Communications. 2023; 14: 7260](https://doi.org/10.1038/s41467-023-42680-x). [**PDF**](http://clifmckee.github.io/files/2023_Howerton_Nat_Commun.pdf)
+
+Fagre AC, Islam A, Reeves WK, Kading RC, Plowright RK, Gurley ES, **McKee CD**. *Bartonella* infection in fruit bats and bat flies, Bangladesh. [Microbial Ecology. 2023; 86: 2910–2922](https://doi.org/10.1007/s00248-023-02293-9). [**PDF**](http://clifmckee.github.io/files/2023_Fagre_Microb_Ecol.pdf)
 
 Szentiványi T, **McKee C**, Jones G, Foster JT. Trends in bacterial pathogens of bats: global distribution and knowledge gaps. [Transboundary and Emerging Diseases. 2023; 9285855](https://doi.org/10.1155/2023/9285855). [**PDF**](http://clifmckee.github.io/files/2023_Szentivanyi_TBED.pdf)
 
@@ -93,8 +95,6 @@ Bai Y, Hayman DTS, **McKee CD**, Kosoy MY. Classification of *Bartonella* strain
 ## Preprints
 
 Cortés Azuero O, Lefrancq N, Nikolay B, **McKee C**, Cappelle J, Hul V, Ou TP, Hoem T, Lemey P, Rahman MZ, Islam A, Gurley ES, Duong V, Salje H. The genetic diversity of Nipah virus across spatial scales. [medRxiv. 2023](https://doi.org/10.1101/2023.07.14.23292668). [**PDF**](http://clifmckee.github.io/files/2023_Cortes-Azuero_medRxiv.pdf)
-
-Howerton E, Contamin L, Mullany LC, Qin MM, Reich NG, Bents SJ, Borchering RK, Jung SM, Loo SL, Smith CP, Levander J, ..., **McKee C**, ..., Viboud C, Lessler J. Informing pandemic response in the face of uncertainty. An evaluation of the US COVID-19 Scenario Modeling Hub. [medRxiv. 2023](https://doi.org/10.1101/2023.06.28.23291998). [**PDF**](http://clifmckee.github.io/files/2023_Howerton_medRxiv.pdf)
 
 Jung S-m, Loo SL, Howerton E, Contamin L, Smith CP, Carcelén EC, Yan K, Bents SJ, Levander J, Espino J, Reich NG,..., **McKee C**, ..., Viboud C, Lessler J. Potential impact of annual vaccination with reformulated COVID-19 vaccines: lessons from the U.S. COVID- 19 Scenario Modeling Hub. [medRxiv. 2023](https://doi.org/10.1101/2023.10.26.23297581 ). [**PDF**](http://clifmckee.github.io/files/2023_Jung_medRxiv.pdf)
 
