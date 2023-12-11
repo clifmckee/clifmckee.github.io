@@ -94,7 +94,7 @@ Bai Y, Hayman DTS, **McKee CD**, Kosoy MY. Classification of *Bartonella* strain
 
 ## Preprints
 
-Mathis SM, Webber AE, Basu A, Drake JM, White LA, Murray EL, Sun M, Leon TM, Hu AJ, Shemetov D, Brooks LC, ..., **McKee CD**, ..., Borchering RK. Evaluation of FluSight influenza forecasting in the 2021-22 and 2022-23 seasons with a new target laboratory-confirmed influenza hospitalizations. [medRxiv. 2023](https://doi.org/10.1101/2023.12.08.23299726). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2023_Mathis_medRxiv.pdf)
+Mathis SM, Webber AE, Basu A, Drake JM, White LA, Murray EL, Sun M, Leon TM, Hu AJ, Shemetov D, Brooks LC, ..., **McKee CD**, ..., Borchering RK. Evaluation of FluSight influenza forecasting in the 2021-22 and 2022-23 seasons with a new target laboratory-confirmed influenza hospitalizations. [medRxiv. 2023](https://doi.org/10.1101/2023.12.08.23299726). [**PDF**](http://clifmckee.github.io/files/2023_Mathis_medRxiv.pdf)
 
 Jung S-m, Loo SL, Howerton E, Contamin L, Smith CP, Carcelén EC, Yan K, Bents SJ, Levander J, Espino J, Reich NG, ..., **McKee C**, ..., Lessler J. Potential impact of annual vaccination with reformulated COVID-19 vaccines: lessons from the U.S. COVID- 19 Scenario Modeling Hub. [medRxiv. 2023](https://doi.org/10.1101/2023.10.26.23297581 ). [**PDF**](http://clifmckee.github.io/files/2023_Jung_medRxiv.pdf)
 
