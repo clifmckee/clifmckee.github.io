@@ -64,7 +64,7 @@ Goodrich I, **McKee C**, Kosoy M. Longitudinal study of bacterial infectious age
 
 Bai Y, Osinubi MOV, Osikowicz L, **McKee C**, Vora NM, Rizzo MR, Recuenco S, Davis L, Niezgoda M, Ehimiyein AM, Kia GSN, Oyemakinde A, Adeniyi OS, Gbadegesin YH, Saliman OA, Ogunniyi A, Ogunkoya AB, Kosoy MY, Idanre Bat Festival Investigation Team. Human exposure to novel *Bartonella* species from contact with fruit bats. [Emerging Infectious Diseases. 2018; 24(12): 2317--23](https://doi.org/10.3201/eid2412.181204.). [**PDF**](http://clifmckee.github.io/files/2018_Bai_EID.pdf)
 
-Kellner A, Carver S, Scorza V, McKee CD, Lappin M, Crooks KR, VandeWoude S, Antolin MF. Transmission pathways and spillover of an erythrocytic bacterial pathogen from domestic cats to wild felids. [Ecology and Evolution. 2018; 8(19): 9779--9792](https://doi.org/10.1002/ece3.4451). [**PDF**](http://clifmckee.github.io/files/2018_Kellner_Ecol_Evol.pdf)
+Kellner A, Carver S, Scorza V, **McKee CD**, Lappin M, Crooks KR, VandeWoude S, Antolin MF. Transmission pathways and spillover of an erythrocytic bacterial pathogen from domestic cats to wild felids. [Ecology and Evolution. 2018; 8(19): 9779--9792](https://doi.org/10.1002/ece3.4451). [**PDF**](http://clifmckee.github.io/files/2018_Kellner_Ecol_Evol.pdf)
 
 **McKee CD**, Osikowicz LM, Schwedhelm TR, Maes SE, Enscore RE, Gage KL, Kosoy MY. Acquisition of *Bartonella elizabethae* by experimentally exposed oriental rat fleas (*Xenopsylla cheopis*; Siphonaptera, Pulicidae) and excretion of *Bartonella* DNA in flea feces. [Journal of Medical Entomology. 2018; 55(5): 1292--1298](https://doi.org/10.1093/jme/tjy085). [**PDF**](http://clifmckee.github.io/files/2018b_McKee_JME.pdf)
 
@@ -94,9 +94,11 @@ Bai Y, Hayman DTS, **McKee CD**, Kosoy MY. Classification of *Bartonella* strain
 
 ## Preprints
 
-Cortés Azuero O, Lefrancq N, Nikolay B, **McKee C**, Cappelle J, Hul V, Ou TP, Hoem T, Lemey P, Rahman MZ, Islam A, Gurley ES, Duong V, Salje H. The genetic diversity of Nipah virus across spatial scales. [medRxiv. 2023](https://doi.org/10.1101/2023.07.14.23292668). [**PDF**](http://clifmckee.github.io/files/2023_Cortes-Azuero_medRxiv.pdf)
+Mathis SM, Webber AE, Basu A, Drake JM, White LA, Murray EL, Sun M, Leon TM, Hu AJ, Shemetov D, Brooks LC, ..., **McKee CD**, ..., Borchering RK. Evaluation of FluSight influenza forecasting in the 2021-22 and 2022-23 seasons with a new target laboratory-confirmed influenza hospitalizations. [medRxiv. 2023](https://doi.org/10.1101/2023.12.08.23299726). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2023_Mathis_medRxiv.pdf)
 
-Jung S-m, Loo SL, Howerton E, Contamin L, Smith CP, Carcelén EC, Yan K, Bents SJ, Levander J, Espino J, Reich NG,..., **McKee C**, ..., Viboud C, Lessler J. Potential impact of annual vaccination with reformulated COVID-19 vaccines: lessons from the U.S. COVID- 19 Scenario Modeling Hub. [medRxiv. 2023](https://doi.org/10.1101/2023.10.26.23297581 ). [**PDF**](http://clifmckee.github.io/files/2023_Jung_medRxiv.pdf)
+Jung S-m, Loo SL, Howerton E, Contamin L, Smith CP, Carcelén EC, Yan K, Bents SJ, Levander J, Espino J, Reich NG, ..., **McKee C**, ..., Lessler J. Potential impact of annual vaccination with reformulated COVID-19 vaccines: lessons from the U.S. COVID- 19 Scenario Modeling Hub. [medRxiv. 2023](https://doi.org/10.1101/2023.10.26.23297581 ). [**PDF**](http://clifmckee.github.io/files/2023_Jung_medRxiv.pdf)
+
+Cortés Azuero O, Lefrancq N, Nikolay B, **McKee C**, Cappelle J, Hul V, Ou TP, Hoem T, Lemey P, Rahman MZ, Islam A, Gurley ES, Duong V, Salje H. The genetic diversity of Nipah virus across spatial scales. [medRxiv. 2023](https://doi.org/10.1101/2023.07.14.23292668). [**PDF**](http://clifmckee.github.io/files/2023_Cortes-Azuero_medRxiv.pdf)
 
 **McKee CD**, Webb CT, Kosoy MY, Bai Y, Osikowicz LM, Suu-Ire R, Ntiamoa-Baidu Y, Cunningham AA, Wood JL, Hayman DT. Manipulating vector transmission reveals local processes in bacterial communities of bats. [bioRxiv. 2021](https://doi.org/10.1101/2021.03.03.433743). [**PDF**](http://clifmckee.github.io/files/2021_McKee_bioRxiv.pdf)
 
