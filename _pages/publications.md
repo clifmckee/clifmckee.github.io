@@ -14,6 +14,10 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 <sup>†</sup>Equal contribution
 
+**2024**
+
+Lemaitre JC, Loo SL, Kaminsky J, Lee EC, **McKee C**, Smith C, Jung S-m, Sato K, Carcelen E, Hill A, Lessler J, Truelove S. *flepiMoP*: the evolution of a flexible infectious disease modeling pipeline during the COVID-19 pandemic. [Epidemics. 2024; 47: 100753](https://doi.org/10.1016/j.epidem.2024.100753). [**PDF**](http://clifmckee.github.io/files/2024_Lemaitre_Epidemics.pdf)
+
 **2023**
 
 Howerton E, Contamin L, Mullany LC, Qin MM, Reich NG, Bents SJ, Borchering RK, Jung SM, Loo SL, Smith CP, Levander J, ..., **McKee C**, ..., Viboud C, Lessler J. Evaluation of the US COVID-19 Scenario Modeling Hub for informing pandemic response under uncertainty. [Nature Communications. 2023; 14: 7260](https://doi.org/10.1038/s41467-023-42680-x). [**PDF**](http://clifmckee.github.io/files/2023_Howerton_Nat_Commun.pdf)
@@ -104,7 +108,7 @@ Cortés Azuero O, Lefrancq N, Nikolay B, **McKee C**, Cappelle J, Hul V, Ou TP, 
 
 ## Other contributions
 
-The Flexible Epidemic Modeling Pipeline (flepiMoP): a software suite for simulating a wide range of compartmental models of infectious disease transmission. Available at: [https://www.flepimop.org/](https://www.flepimop.org/).
+The Flexible Epidemic Modeling Pipeline (*flepiMoP*): a software suite for simulating a wide range of compartmental models of infectious disease transmission. Available at: [https://www.flepimop.org/](https://www.flepimop.org/).
 
 2019 Novel Coronavirus Research Compendium (NCRC). 2021. Available at: [https://ncrc.jhsph.edu/](https://ncrc.jhsph.edu/).
 
