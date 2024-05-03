@@ -16,6 +16,10 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 **2024**
 
+Cortes-Azuero O, Lefrancq N, Nikolay B, **McKee C**, Cappelle J, Hul V, Ou TP, Hoem T, Lemey P, Rahman MZ, Islam A, Gurley ES, Duong V, Salje H. The genetic diversity of Nipah virus across spatial scales. [The Journal of Infectious Diseases; jiae221](https://doi.org/10.1093/infdis/jiae221). [**PDF**](http://clifmckee.github.io/files/2024_Cortes-Azuero_JID.pdf)
+
+Jung S-m, Loo SL, Howerton E, Contamin L, Smith CP, Carcelén EC, Yan K, Bents SJ, Levander J, Espino J, Lemaitre JC, ..., **McKee CD**, ..., Lessler J. Potential impact of annual vaccination with reformulated COVID-19 vaccines: lessons from the US COVID-19 scenario modeling hub. [PLOS Medicine 21(4): e1004387](https://doi.org/10.1371/journal.pmed.1004387). [**PDF**](http://clifmckee.github.io/files/2024_Jung_PLoS_Med.pdf)
+
 Lemaitre JC, Loo SL, Kaminsky J, Lee EC, **McKee C**, Smith C, Jung S-m, Sato K, Carcelen E, Hill A, Lessler J, Truelove S. *flepiMoP*: the evolution of a flexible infectious disease modeling pipeline during the COVID-19 pandemic. [Epidemics. 2024; 47: 100753](https://doi.org/10.1016/j.epidem.2024.100753). [**PDF**](http://clifmckee.github.io/files/2024_Lemaitre_Epidemics.pdf)
 
 **2023**
@@ -98,11 +102,9 @@ Bai Y, Hayman DTS, **McKee CD**, Kosoy MY. Classification of *Bartonella* strain
 
 ## Preprints
 
+**McKee CD**, Yu EX, Garcia A, Jackson J, Koyuncu A, Rose S, Azman AS, Lobner K, Sacks E, Van Kerkhove MD, Gurley ES. Superspreading of SARS-CoV-2: a systematic review and meta-analysis of event attack rates and individual transmission patterns. [medRxiv. 2024](https://doi.org/10.1101/2024.01.25.24301669). [**PDF**](http://clifmckee.github.io/files/2024_McKee_medRxiv.pdf)
+
 Mathis SM, Webber AE, Basu A, Drake JM, White LA, Murray EL, Sun M, Leon TM, Hu AJ, Shemetov D, Brooks LC, ..., **McKee CD**, ..., Borchering RK. Evaluation of FluSight influenza forecasting in the 2021-22 and 2022-23 seasons with a new target laboratory-confirmed influenza hospitalizations. [medRxiv. 2023](https://doi.org/10.1101/2023.12.08.23299726). [**PDF**](http://clifmckee.github.io/files/2023_Mathis_medRxiv.pdf)
-
-Jung S-m, Loo SL, Howerton E, Contamin L, Smith CP, Carcelén EC, Yan K, Bents SJ, Levander J, Espino J, Reich NG, ..., **McKee C**, ..., Lessler J. Potential impact of annual vaccination with reformulated COVID-19 vaccines: lessons from the U.S. COVID- 19 Scenario Modeling Hub. [medRxiv. 2023](https://doi.org/10.1101/2023.10.26.23297581 ). [**PDF**](http://clifmckee.github.io/files/2023_Jung_medRxiv.pdf)
-
-Cortés Azuero O, Lefrancq N, Nikolay B, **McKee C**, Cappelle J, Hul V, Ou TP, Hoem T, Lemey P, Rahman MZ, Islam A, Gurley ES, Duong V, Salje H. The genetic diversity of Nipah virus across spatial scales. [medRxiv. 2023](https://doi.org/10.1101/2023.07.14.23292668). [**PDF**](http://clifmckee.github.io/files/2023_Cortes-Azuero_medRxiv.pdf)
 
 **McKee CD**, Webb CT, Kosoy MY, Bai Y, Osikowicz LM, Suu-Ire R, Ntiamoa-Baidu Y, Cunningham AA, Wood JL, Hayman DT. Manipulating vector transmission reveals local processes in bacterial communities of bats. [bioRxiv. 2021](https://doi.org/10.1101/2021.03.03.433743). [**PDF**](http://clifmckee.github.io/files/2021_McKee_bioRxiv.pdf)
 
