@@ -12,13 +12,15 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 ## Peer-reviewed articles
 
-<sup>†</sup>Equal contribution
+<sup>†</sup>Equal contribution, <sup>‡</sup>Student advisee
 
 **2024**
 
-Cortes-Azuero O, Lefrancq N, Nikolay B, **McKee C**, Cappelle J, Hul V, Ou TP, Hoem T, Lemey P, Rahman MZ, Islam A, Gurley ES, Duong V, Salje H. The genetic diversity of Nipah virus across spatial scales. [The Journal of Infectious Diseases; jiae221](https://doi.org/10.1093/infdis/jiae221). [**PDF**](http://clifmckee.github.io/files/2024_Cortes-Azuero_JID.pdf)
+**McKee CD**, Peel AJ, Hayman DTS, Suu-Ire R, Ntiamoa-Baidu Y, Cunningham AA, Wood JLN, Webb CT, Kosoy MY. Ectoparasite and bacterial population genetics and community structure indicate extent of bat movement across an island chain. [In press at Parasitology](https://doi.org/10.1017/S0031182024000660). [**PDF**](http://clifmckee.github.io/files/2024_McKee_Parasitology.pdf)
 
-Jung S-m, Loo SL, Howerton E, Contamin L, Smith CP, Carcelén EC, Yan K, Bents SJ, Levander J, Espino J, Lemaitre JC, ..., **McKee CD**, ..., Lessler J. Potential impact of annual vaccination with reformulated COVID-19 vaccines: lessons from the US COVID-19 scenario modeling hub. [PLOS Medicine 21(4): e1004387](https://doi.org/10.1371/journal.pmed.1004387). [**PDF**](http://clifmckee.github.io/files/2024_Jung_PLoS_Med.pdf)
+Cortes-Azuero O, Lefrancq N, Nikolay B, **McKee C**, Cappelle J, Hul V, Ou TP, Hoem T, Lemey P, Rahman MZ, Islam A, Gurley ES, Duong V, Salje H. The genetic diversity of Nipah virus across spatial scales. [The Journal of Infectious Diseases. 2024; jiae221](https://doi.org/10.1093/infdis/jiae221). [**PDF**](http://clifmckee.github.io/files/2024_Cortes-Azuero_JID.pdf)
+
+Jung S-m, Loo SL, Howerton E, Contamin L, Smith CP, Carcelén EC, Yan K, Bents SJ, Levander J, Espino J, Lemaitre JC, ..., **McKee CD**, ..., Lessler J. Potential impact of annual vaccination with reformulated COVID-19 vaccines: lessons from the US COVID-19 scenario modeling hub. [PLOS Medicine. 2024; 21(4): e1004387](https://doi.org/10.1371/journal.pmed.1004387). [**PDF**](http://clifmckee.github.io/files/2024_Jung_PLoS_Med.pdf)
 
 Lemaitre JC, Loo SL, Kaminsky J, Lee EC, **McKee C**, Smith C, Jung S-m, Sato K, Carcelen E, Hill A, Lessler J, Truelove S. *flepiMoP*: the evolution of a flexible infectious disease modeling pipeline during the COVID-19 pandemic. [Epidemics. 2024; 47: 100753](https://doi.org/10.1016/j.epidem.2024.100753). [**PDF**](http://clifmckee.github.io/files/2024_Lemaitre_Epidemics.pdf)
 
@@ -42,9 +44,9 @@ Goodrich I, **McKee C**, Margos G, Kosoy M. Molecular characterization of a nove
 
 Rice BL<sup>†</sup>, Lessler J<sup>†</sup>, **McKee C**<sup>†</sup>, Metcalf CJE<sup>†</sup>. Why do some coronaviruses become pandemic threats when others do not? [PLOS Biology. 2022; 20(5): e3001652](https://doi.org/10.1371/journal.pbio.3001652). [**PDF**](http://clifmckee.github.io/files/2022_Rice_PLoS_Biol.pdf)
 
-Ruiz-Aravena M<sup>†</sup>, **McKee C**<sup>†</sup>, Gamble A, Lunn T, Morris A, Snedden CE, Yinda CK, Port JR, Buchholz DW, Yeo YY, Faust C, Jax E, Dee L, Jones DN, Kessler MK, Falvo C, Crowley D, Bharti N, Brook CE, Aguilar HC, Peel AJ, Restif O, Schountz T, Parrish CR, Gurley ES, Lloyd-Smith JO, Hudson PJ, Munster VJ, Plowright RK. Ecology, evolution and spillover of coronaviruses from bats. [Nature Reviews Microbiology. 2022; 20: 299--314](https://doi.org/10.1038/s41579-021-00652-2). [**PDF**](http://clifmckee.github.io/files/2022_Ruiz-Aravena_Nat_Rev_Microbiol.pdf)
+Ruiz-Aravena M<sup>†</sup>, **McKee C**<sup>†</sup>, Gamble A, Lunn T, Morris A, Snedden CE, Yinda CK, Port JR, Buchholz DW, Yeo YY, Faust C, ..., Munster VJ, Plowright RK. Ecology, evolution and spillover of coronaviruses from bats. [Nature Reviews Microbiology. 2022; 20: 299--314](https://doi.org/10.1038/s41579-021-00652-2). [**PDF**](http://clifmckee.github.io/files/2022_Ruiz-Aravena_Nat_Rev_Microbiol.pdf)
 
-Redd AD, Peetluk LS, Jarrett BA, Hanrahan C, Schwartz S, Rao A, Jaffe AE, Peer AD, Jones CB, Lutz CS, **McKee CD**, Patel EU, Rosen JG, Garrison Desany H, McKay HS, Muschelli J, Andersen KM, Link MA, Wada N, Baral P, Young R, Boon D, Grabowski MK, Gurley ES, the Novel Coronavirus Research Compendium Team. Curating the evidence about COVID-19 for frontline public health and clinical care: the Novel Coronavirus Research Compendium. [Public Health Reports. 2022; 137(2): 197--202](https://doi.org/10.1177/00333549211058732). [**PDF**](http://clifmckee.github.io/files/2022_Redd_PHR.pdf)
+Redd AD, Peetluk LS, Jarrett BA, Hanrahan C, Schwartz S, Rao A, Jaffe AE, Peer AD, Jones CB, Lutz CS, **McKee CD**, ..., Grabowski MK, Gurley ES, the Novel Coronavirus Research Compendium Team. Curating the evidence about COVID-19 for frontline public health and clinical care: the Novel Coronavirus Research Compendium. [Public Health Reports. 2022; 137(2): 197--202](https://doi.org/10.1177/00333549211058732). [**PDF**](http://clifmckee.github.io/files/2022_Redd_PHR.pdf)
 
 **2021**
 
@@ -101,6 +103,10 @@ Zinzow-Kramer WM, Horton BM, **McKee CD**, Michaud JM, Tharp GK, Thomas JW, Tutt
 Bai Y, Hayman DTS, **McKee CD**, Kosoy MY. Classification of *Bartonella* strains associated with straw-colored fruit bats (*Eidolon helvum*) across Africa using a multi-locus sequence typing platform. [PLOS Neglected Tropical Diseases. 2015; 9(1): e0003478](https://doi.org/10.1371/journal.pntd.0003478). [**PDF**](http://clifmckee.github.io/files/2015_Bai_PLoS_NTD.pdf)
 
 ## Preprints
+
+Stevens T, Zimmerman R, Albery G, Becker DJ, Kading R, Keiser CN, Khandelwal S, Kramer-Schadt S, Krut-Landau R, **McKee C**, Montecino-Latorre D, ..., Carlson CJ. A minimum data standard for wildlife disease studies. [EcoEvoRxiv. 2024](https://doi.org/10.32942/x2tw4j). [**PDF**](http://clifmckee.github.io/files/2024_Stevens_EcoEvoRxiv.pdf)
+
+Jackson J<sup>‡</sup>, Shanta IS, **McKee C**, Luby SP, Haider N, Sharker Y, Plowright R, Hudson P, Gurley E. Identifying weather patterns affecting household date palm sap consumption in Bangladesh, 2013-2016. [medRxiv. 2024](https://doi.org/10.1101/2024.05.06.24306951). [**PDF**](http://clifmckee.github.io/files/2024_Jackson_medRxiv.pdf)
 
 **McKee CD**, Yu EX, Garcia A, Jackson J, Koyuncu A, Rose S, Azman AS, Lobner K, Sacks E, Van Kerkhove MD, Gurley ES. Superspreading of SARS-CoV-2: a systematic review and meta-analysis of event attack rates and individual transmission patterns. [medRxiv. 2024](https://doi.org/10.1101/2024.01.25.24301669). [**PDF**](http://clifmckee.github.io/files/2024_McKee_medRxiv.pdf)
 
