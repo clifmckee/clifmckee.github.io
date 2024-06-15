@@ -24,6 +24,12 @@ feature_row:
     url: /research/pathogen-dynamics
     btn_label: "Read More"
     btn_class: "btn--inverse"
+  - image_path: images/canyonlands.jpg
+    title: Novel pathogens
+    excerpt: "Molecular characterization of wildlife pathogens"
+    url: /research/novel-pathogens
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 ---
 
 ## Research topics
