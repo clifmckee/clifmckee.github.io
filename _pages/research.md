@@ -21,7 +21,7 @@ feature_row:
   - image_path: images/canyonlands_wide.jpg
     title: Pathogen dynamics
     excerpt: "Population genetics and pathogen dynamics in wildlife"
-    url: /research/topic3
+    url: /research/pathogen-dynamics
     btn_label: "Read more"
     btn_class: "btn--inverse"
   - image_path: images/canyonlands_wide.jpg
