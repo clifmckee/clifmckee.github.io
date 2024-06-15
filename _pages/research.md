@@ -6,7 +6,7 @@ header:
   caption: "Canyonlands National Park, Utah"
 permalink: /research/
 feature_row:
-  - image_path: images/canyonlands_wide.jpg
+  - image_path: images/canyonlands.jpg
     title: Nipah
     excerpt: "Ecology and spillover of Nipah virus""
     url: /research/nipah
@@ -25,9 +25,9 @@ feature_row:
     btn_label: "Read more"
     btn_class: "btn--inverse"
   - image_path: images/canyonlands_wide.jpg
-    title: Topic4
-    excerpt: "Description"
-    url: /research/topic4
+    title: Novel pathogens
+    excerpt: "Molecular characterization of wildlife pathogens"
+    url: /research/novel-pathogens
     btn_label: "Read more"
     btn_class: "btn--inverse"
 ---
