@@ -12,9 +12,8 @@ feature_row:
     btn_label: "Read more"
     btn_class: "btn--inverse"
   - image_path: images/canyonlands.jpg
-    title: Topic2
-    excerpt: "Description"
-    url: /research/topic2
+    title: Phylogenetic comparative methods for assessing cross-species transmission
+    url: /research/phylo-methods
     btn_label: "Read more"
     btn_class: "btn--inverse"
   - image_path: images/canyonlands.jpg
