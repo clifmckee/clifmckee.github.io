@@ -5,6 +5,9 @@ author_profile: false
 permalink: /publications/
 title: "Publications"
 toc: true
+toc_float:
+      collapsed: true
+      smooth_scroll: true
 toc_label: "Contents"
 ---
 
