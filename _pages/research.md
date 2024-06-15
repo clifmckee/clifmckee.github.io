@@ -2,31 +2,31 @@
 layout: splash
 author_profile: false
 header:
-  image: /images/green_salamander.jpg
-  caption: "Green Salamander (*Aneides aeneus*), Obed River, Tennessee"
+  image: images/canyonlands_wide.jpg
+  caption: "Canyonlands National Park, Utah"
 permalink: /research/
 feature_row:
-  - image_path: images/shiny_rana.jpg
-    title: Topic 1
-    excerpt: "Topic 1"
+  - image_path: images/canyonlands_wide.jpg
+    title: Topic1
+    excerpt: "Description"
     url: /research/topic1
-    btn_label: "read more"
-    btn_class: "btn"
-  - image_path: images/deer_rac.jpg
-    title: Topic 2
-    excerpt: "Topic 2"
+    btn_label: "Read more"
+    btn_class: "btn--inverse"
+  - image_path: images/canyonlands_wide.jpg
+    title: Topic2
+    excerpt: "Description"
     url: /research/topic2
-    btn_label: "read more"
-    btn_class: "btn"
-  - image_path: images/ponds.jpg
-    title: Topic 3
-    excerpt: "Topic 3"
+    btn_label: "Read more"
+    btn_class: "btn--inverse"
+  - image_path: images/canyonlands_wide.jpg
+    title: Topic3
+    excerpt: "Description"
     url: /research/topic3
-    btn_label: "read more"
-    btn_class: "btn"
+    btn_label: "Read more"
+    btn_class: "btn--inverse"
 ---
 
-## research topics
+## Research topics
 
 Coming soon!
 
