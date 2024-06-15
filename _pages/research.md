@@ -34,11 +34,11 @@ Longitudinal and spatially replicated surveillance studies are important to unde
 - [Goodrich _et al. 2020 PLOS ONE](https://doi.org/10.1371/journal.pone.0244803)
 - [Goodrich et al. 2020 Vector Borne Zoonotic Dis](https://doi.org/10.1089/vbz.2019.2550)
 
-![](/images/thai-bartonella.jpg)
-
 ## Molecular characterization of wildlife pathogens
 
-During my fellowship at CDC Division of Vector-Borne Diseases and beyond, I have contributed to the description of novel pathogens in wildlife. The bacterial genera _Bartonella_, _Borrelia_, and _Leptospira_ are known to cause human disease, frequently following cross-species transmission from animals. It is important to understand the diversity of these bacteria and the processes that contribute to pathogen genetic diversity in nature, including mutation and recombination. This work involved sequencing of multiple genetic loci from cultured and uncultured bacteria and using various phylogenetic tools to understand the genetic diversity of these organisms and their relationships to known human pathogens.
+![*Bartonella* in Thai bats](/images/thai-bartonella.jpg)}{width=33%}
+
+During my fellowship at CDC Division of Vector-Borne Diseases and beyond, I have contributed to the description of novel pathogens in wildlife. The bacterial genera *Bartonella*, *Borrelia*, and *Leptospira* are known to cause human disease, frequently following cross-species transmission from animals. It is important to understand the diversity of these bacteria and the processes that contribute to pathogen genetic diversity in nature, including mutation and recombination. This work involved sequencing of multiple genetic loci from cultured and uncultured bacteria and using various phylogenetic tools to understand the genetic diversity of these organisms and their relationships to known human pathogens.
 
 - [Seidlova et al. 2022 Emerg Microbes Infect](https://doi.org/10.1080/22221751.2022.2117095)
 - [Goodrich et al. 2022 J Wildl Dis](https://doi.org/10.7589/JWD-D-21-00148)
