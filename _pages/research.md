@@ -27,7 +27,7 @@ Pathogens frequently transmit between multiple closely related species in nature
 
 ## Population genetics and pathogen dynamics in wildlife
 
-![*Bartonella* in New Mexico woodrats](/images/NM-genogroups.jpg){width=33%}
+<img src="/images/NM-genogroups.jpg" width="600px" />
 
 Longitudinal and spatially replicated surveillance studies are important to understand the geographic and temporal factors that contribute to disease dynamics and pathogen diversification in wild hosts. These types of studies can help to ascertain how pathogen transmission is structured across host populations, the seasonality of transmission, and how particular demographic groups are contributing to transmission.
 
@@ -38,7 +38,7 @@ Longitudinal and spatially replicated surveillance studies are important to unde
 
 ## Molecular characterization of wildlife pathogens
 
-![*Bartonella* in Thai bats](/images/thai-bartonella.jpg){width=33%}
+<img src="/images/thai-bartonella.jpg" width="600px" />
 
 During my fellowship at CDC Division of Vector-Borne Diseases and beyond, I have contributed to the description of novel pathogens in wildlife. The bacterial genera *Bartonella*, *Borrelia*, and *Leptospira* are known to cause human disease, frequently following cross-species transmission from animals. It is important to understand the diversity of these bacteria and the processes that contribute to pathogen genetic diversity in nature, including mutation and recombination. This work involved sequencing of multiple genetic loci from cultured and uncultured bacteria and using various phylogenetic tools to understand the genetic diversity of these organisms and their relationships to known human pathogens.
 
