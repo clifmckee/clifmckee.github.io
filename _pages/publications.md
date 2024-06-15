@@ -4,6 +4,7 @@ classes: wide
 author_profile: false
 permalink: /publications/
 title: "Publications"
+toc: true
 ---
 
 Follow my research on [Google Scholar](https://scholar.google.com/citations?user=xxVfsMIAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Clifton-Mckee).
@@ -14,7 +15,7 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 **2024**
 
-**McKee CD**, Peel AJ, Hayman DTS, Suu-Ire R, Ntiamoa-Baidu Y, Cunningham AA, Wood JLN, Webb CT, Kosoy MY. Ectoparasite and bacterial population genetics and community structure indicate extent of bat movement across an island chain. [In press at Parasitology](https://doi.org/10.1017/S0031182024000660). [**PDF**](http://clifmckee.github.io/files/2024_McKee_Parasitology.pdf)
+**McKee CD**, Peel AJ, Hayman DTS, Suu-Ire R, Ntiamoa-Baidu Y, Cunningham AA, Wood JLN, Webb CT, Kosoy MY. Ectoparasite and bacterial population genetics and community structure indicate extent of bat movement across an island chain. [_In press at Parasitology_](https://doi.org/10.1017/S0031182024000660). [**PDF**](http://clifmckee.github.io/files/2024_McKee_Parasitology.pdf)
 
 Cortes-Azuero O, Lefrancq N, Nikolay B, **McKee C**, Cappelle J, Hul V, Ou TP, Hoem T, Lemey P, Rahman MZ, Islam A, Gurley ES, Duong V, Salje H. The genetic diversity of Nipah virus across spatial scales. [The Journal of Infectious Diseases. 2024; jiae221](https://doi.org/10.1093/infdis/jiae221). [**PDF**](http://clifmckee.github.io/files/2024_Cortes-Azuero_JID.pdf)
 
@@ -70,7 +71,7 @@ Goodrich I, **McKee C**, Kosoy M. Longitudinal study of bacterial infectious age
 
 **2018**
 
-Bai Y, Osinubi MOV, Osikowicz L, **McKee C**, Vora NM, Rizzo MR, Recuenco S, Davis L, Niezgoda M, Ehimiyein AM, Kia GSN, Oyemakinde A, Adeniyi OS, Gbadegesin YH, Saliman OA, Ogunniyi A, Ogunkoya AB, Kosoy MY, Idanre Bat Festival Investigation Team. Human exposure to novel *Bartonella* species from contact with fruit bats. [Emerging Infectious Diseases. 2018; 24(12): 2317--23](https://doi.org/10.3201/eid2412.181204.). [**PDF**](http://clifmckee.github.io/files/2018_Bai_EID.pdf)
+Bai Y, Osinubi MOV, Osikowicz L, **McKee C**, Vora NM, Rizzo MR, Recuenco S, Davis L, Niezgoda M, Ehimiyein AM, Kia GSN, Oyemakinde A, Adeniyi OS, Gbadegesin YH, Saliman OA, Ogunniyi A, Ogunkoya AB, Kosoy MY, Idanre Bat Festival Investigation Team. Human exposure to novel *Bartonella* species from contact with fruit bats. [Emerging Infectious Diseases. 2018; 24(12): 2317--23](https://doi.org/10.3201/eid2412.181204). [**PDF**](http://clifmckee.github.io/files/2018_Bai_EID.pdf)
 
 Kellner A, Carver S, Scorza V, **McKee CD**, Lappin M, Crooks KR, VandeWoude S, Antolin MF. Transmission pathways and spillover of an erythrocytic bacterial pathogen from domestic cats to wild felids. [Ecology and Evolution. 2018; 8(19): 9779--9792](https://doi.org/10.1002/ece3.4451). [**PDF**](http://clifmckee.github.io/files/2018_Kellner_Ecol_Evol.pdf)
 
