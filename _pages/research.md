@@ -1,5 +1,5 @@
 ---
-layout: wide
+layout: splash
 author_profile: false
 header:
   image: images/canyonlands_wide.jpg
