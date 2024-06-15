@@ -5,16 +5,17 @@ author_profile: false
 permalink: /research/
 title: "Research topics"
 toc: true
+toc-title: "Contents"
 ---
 
 ## Ecology and spillover of Nipah virus
 
 Nipah virus is a bat-borne infection that causes yearly outbreaks in Bangladesh with mortality >70% in human cases. I have contributed my expertise in bat biology and ecology to understand how human land use and animal behavior contribute to the emergence of Nipah virus at the human-animal interface. These insights are important for understanding how Nipah virus is maintained in bat populations and the seasonality of cross-species transmission to inform surveillance and prevention efforts.
 
-- [McKee _et al._ 2021 Viruses](https://doi.org/10.3390/v13020169)
 - [Cortes-Azuero _et al._ 2024 J Infect Dis](https://doi.org/10.1093/infdis/jiae221)
 - [McKee _et al._ 2022 Emerg Infect Dis](https://doi.org/10.3201/eid2807.212614)
-- [Islam _et al._ 2021 EcoHealth](https://doi.org/10.1007/s10393-021-01561-9).
+- [Islam _et al._ 2021 EcoHealth](https://doi.org/10.1007/s10393-021-01561-9)
+- [McKee _et al._ 2021 Viruses](https://doi.org/10.3390/v13020169)
 
 ## Phylogenetic comparative methods for assessing cross-species transmission
 

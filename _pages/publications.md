@@ -5,6 +5,7 @@ author_profile: false
 permalink: /publications/
 title: "Publications"
 toc: true
+toc-title: "Contents"
 ---
 
 Follow my research on [Google Scholar](https://scholar.google.com/citations?user=xxVfsMIAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Clifton-Mckee).
