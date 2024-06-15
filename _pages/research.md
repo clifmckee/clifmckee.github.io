@@ -4,11 +4,6 @@ classes: wide
 author_profile: false
 permalink: /research/
 title: "Research topics"
-toc: true
-toc_float:
-      collapsed: true
-      smooth_scroll: true
-toc_label: "Contents"
 ---
 
 ## Ecology and spillover of Nipah virus
