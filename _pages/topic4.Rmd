@@ -1,0 +1,10 @@
+---
+layout: single
+classes: wide
+author_profile: false
+permalink: /research/topic4
+title: "Topic4"
+---
+
+<img src="/images/canyonlands_wide.jpg" style="float:right;width:500px">
+
