@@ -8,9 +8,21 @@ permalink: /research/
 feature_row:
   - image_path: images/canyonlands.jpg
     title: Nipah
-    excerpt: "Ecology and spillover of Nipah virus""
+    excerpt: "Ecology and spillover of Nipah virus"
     url: /research/nipah
-    btn_label: "Read more"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: images/canyonlands.jpg
+    title: Cross-species transmission
+    excerpt: "Phylogenetic comparative methods for assessing cross-species transmission"
+    url: /research/phylo-methods
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: images/canyonlands.jpg
+    title: Pathogen dynamics
+    excerpt: "Population genetics and pathogen dynamics in wildlife"
+    url: /research/pathogen-dynamics
+    btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
 
