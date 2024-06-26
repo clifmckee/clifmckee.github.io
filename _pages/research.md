@@ -37,7 +37,7 @@ Longitudinal and spatially replicated surveillance studies are important to unde
 
 - [McKee et al. 2024 Parasitology](https://doi.org/10.1017/S0031182024000660)
 - [Fagre et al. 2023 Microb Ecol](https://doi.org/10.1007/s00248-023-02293-9)
-- [Goodrich _et al. 2020 PLOS ONE](https://doi.org/10.1371/journal.pone.0244803)
+- [Goodrich et al. 2020 PLOS ONE](https://doi.org/10.1371/journal.pone.0244803)
 - [Goodrich et al. 2020 Vector Borne Zoonotic Dis](https://doi.org/10.1089/vbz.2019.2550)
 
 ## Molecular characterization of wildlife pathogens
