@@ -16,6 +16,8 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 **2024**
 
+**McKee CD**, Yu EX, Garcia A, Jackson J, Koyuncu A, Rose S, Azman AS, Lobner K, Sacks E, Van Kerkhove MD, Gurley ES. Superspreading of SARS-CoV-2: a systematic review and meta-analysis of event attack rates and individual transmission patterns. [Accepted at Epidemiology & Infection](https://doi.org/10.1101/2024.01.25.24301669). [**PDF**](http://clifmckee.github.io/files/2024_McKee_medRxiv.pdf)
+
 **McKee CD**, Peel AJ, Hayman DTS, Suu-Ire R, Ntiamoa-Baidu Y, Cunningham AA, Wood JLN, Webb CT, Kosoy MY. Ectoparasite and bacterial population genetics and community structure indicate extent of bat movement across an island chain. [_In press at Parasitology_](https://doi.org/10.1017/S0031182024000660). [**PDF**](http://clifmckee.github.io/files/2024_McKee_Parasitology.pdf)
 
 Cortes-Azuero O, Lefrancq N, Nikolay B, **McKee C**, Cappelle J, Hul V, Ou TP, Hoem T, Lemey P, Rahman MZ, Islam A, Gurley ES, Duong V, Salje H. The genetic diversity of Nipah virus across spatial scales. [The Journal of Infectious Diseases. 2024; jiae221](https://doi.org/10.1093/infdis/jiae221). [**PDF**](http://clifmckee.github.io/files/2024_Cortes-Azuero_JID.pdf)
@@ -107,8 +109,6 @@ Bai Y, Hayman DTS, **McKee CD**, Kosoy MY. Classification of *Bartonella* strain
 Stevens T, Zimmerman R, Albery G, Becker DJ, Kading R, Keiser CN, Khandelwal S, Kramer-Schadt S, Krut-Landau R, **McKee C**, Montecino-Latorre D, ..., Carlson CJ. A minimum data standard for wildlife disease studies. [EcoEvoRxiv. 2024](https://doi.org/10.32942/x2tw4j). [**PDF**](http://clifmckee.github.io/files/2024_Stevens_EcoEvoRxiv.pdf)
 
 Jackson J<sup>‡</sup>, Shanta IS, **McKee C**, Luby SP, Haider N, Sharker Y, Plowright R, Hudson P, Gurley E. Identifying weather patterns affecting household date palm sap consumption in Bangladesh, 2013-2016. [medRxiv. 2024](https://doi.org/10.1101/2024.05.06.24306951). [**PDF**](http://clifmckee.github.io/files/2024_Jackson_medRxiv.pdf)
-
-**McKee CD**, Yu EX, Garcia A, Jackson J, Koyuncu A, Rose S, Azman AS, Lobner K, Sacks E, Van Kerkhove MD, Gurley ES. Superspreading of SARS-CoV-2: a systematic review and meta-analysis of event attack rates and individual transmission patterns. [medRxiv. 2024](https://doi.org/10.1101/2024.01.25.24301669). [**PDF**](http://clifmckee.github.io/files/2024_McKee_medRxiv.pdf)
 
 Mathis SM, Webber AE, Basu A, Drake JM, White LA, Murray EL, Sun M, Leon TM, Hu AJ, Shemetov D, Brooks LC, ..., **McKee CD**, ..., Borchering RK. Evaluation of FluSight influenza forecasting in the 2021-22 and 2022-23 seasons with a new target laboratory-confirmed influenza hospitalizations. [medRxiv. 2023](https://doi.org/10.1101/2023.12.08.23299726). [**PDF**](http://clifmckee.github.io/files/2023_Mathis_medRxiv.pdf)
 
