@@ -20,7 +20,7 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 **McKee CD**, Peel AJ, Hayman DTS, Suu-Ire R, Ntiamoa-Baidu Y, Cunningham AA, Wood JLN, Webb CT, Kosoy MY. Ectoparasite and bacterial population genetics and community structure indicate extent of bat movement across an island chain. [_In press at Parasitology_](https://doi.org/10.1017/S0031182024000660). [**PDF**](http://clifmckee.github.io/files/2024_McKee_Parasitology.pdf)
 
-Mathis SM, Webber AE, León T, Murray EL, Sun M, White LA, Brooks LC, Green A, Hu AJ, Rosenfeld R, Shemetov D, ..., **McKee CD**, ..., Borchering RK. Evaluation of FluSight influenza forecasting in the 2021–-22 and 2022–-23 seasons with a new target laboratory-confirmed influenza hospitalizations. [Nature Communications. 2024; 15: 6289](https://doi.org/10.1038/s41467-024-50601-9). [**PDF**](http://clifmckee.github.io/files/2024_Mathis_Nat_Commun.pdf)
+Mathis SM, Webber AE, León T, Murray EL, Sun M, White LA, Brooks LC, Green A, Hu AJ, Rosenfeld R, Shemetov D, ..., **McKee CD**, ..., Borchering RK. Evaluation of FluSight influenza forecasting in the 2021–22 and 2022–23 seasons with a new target laboratory-confirmed influenza hospitalizations. [Nature Communications. 2024; 15: 6289](https://doi.org/10.1038/s41467-024-50601-9). [**PDF**](http://clifmckee.github.io/files/2024_Mathis_Nat_Commun.pdf)
 
 Cortes-Azuero O, Lefrancq N, Nikolay B, **McKee C**, Cappelle J, Hul V, Ou TP, Hoem T, Lemey P, Rahman MZ, Islam A, Gurley ES, Duong V, Salje H. The genetic diversity of Nipah virus across spatial scales. [The Journal of Infectious Diseases. 2024; jiae221](https://doi.org/10.1093/infdis/jiae221). [**PDF**](http://clifmckee.github.io/files/2024_Cortes-Azuero_JID.pdf)
 
