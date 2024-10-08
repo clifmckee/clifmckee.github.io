@@ -16,9 +16,9 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 **2024**
 
-**McKee CD**, Yu EX, Garcia A, Jackson J, Koyuncu A, Rose S, Azman AS, Lobner K, Sacks E, Van Kerkhove MD, Gurley ES. Superspreading of SARS-CoV-2: a systematic review and meta-analysis of event attack rates and individual transmission patterns. [_Accepted at Epidemiology & Infection_](https://doi.org/10.1101/2024.01.25.24301669). [**PDF**](http://clifmckee.github.io/files/2024_McKee_medRxiv.pdf)
+**McKee CD**, Yu EX, Garcia A<sup>‡</sup>, Jackson J<sup>‡</sup>, Koyuncu A, Rose S, Azman AS, Lobner K, Sacks E, Van Kerkhove MD, Gurley ES. Superspreading of SARS-CoV-2: a systematic review and meta-analysis of event attack rates and individual transmission patterns. [Epidemiology & Infection. 2024; 152: e121](https://doi.org/10.1101/2024.01.25.24301669). [**PDF**](http://clifmckee.github.io/files/2024_McKee_Epidemiol_Infect.pdf)
 
-**McKee CD**, Peel AJ, Hayman DTS, Suu-Ire R, Ntiamoa-Baidu Y, Cunningham AA, Wood JLN, Webb CT, Kosoy MY. Ectoparasite and bacterial population genetics and community structure indicate extent of bat movement across an island chain. [_In press at Parasitology_](https://doi.org/10.1017/S0031182024000660). [**PDF**](http://clifmckee.github.io/files/2024_McKee_Parasitology.pdf)
+**McKee CD**, Peel AJ, Hayman DTS, Suu-Ire R, Ntiamoa-Baidu Y, Cunningham AA, Wood JLN, Webb CT, Kosoy MY. Ectoparasite and bacterial population genetics and community structure indicate extent of bat movement across an island chain. [Parasitology. 2024; 1–14](https://doi.org/10.1017/S0031182024000660). [**PDF**](http://clifmckee.github.io/files/2024_McKee_Parasitology.pdf)
 
 Mathis SM, Webber AE, León T, Murray EL, Sun M, White LA, Brooks LC, Green A, Hu AJ, Rosenfeld R, Shemetov D, ..., **McKee CD**, ..., Borchering RK. Evaluation of FluSight influenza forecasting in the 2021–22 and 2022–23 seasons with a new target laboratory-confirmed influenza hospitalizations. [Nature Communications. 2024; 15: 6289](https://doi.org/10.1038/s41467-024-50601-9). [**PDF**](http://clifmckee.github.io/files/2024_Mathis_Nat_Commun.pdf)
 
