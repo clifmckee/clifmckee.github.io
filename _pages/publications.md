@@ -16,6 +16,8 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 **2024**
 
+Jackson J<sup>‡</sup>, Shanta IS, **McKee C**, Luby SP, Haider N, Sharker Y, Plowright R, Hudson P, Gurley E. Identifying weather patterns affecting household date palm sap consumption in Bangladesh, 2013-2016. [*Accepted at PLOS ONE*](https://doi.org/10.1101/2024.05.06.24306951). [**PDF**](http://clifmckee.github.io/files/2024_Jackson_medRxiv.pdf)
+
 **McKee CD**, Yu EX, Garcia A<sup>‡</sup>, Jackson J<sup>‡</sup>, Koyuncu A, Rose S, Azman AS, Lobner K, Sacks E, Van Kerkhove MD, Gurley ES. Superspreading of SARS-CoV-2: a systematic review and meta-analysis of event attack rates and individual transmission patterns. [Epidemiology & Infection. 2024; 152: e121](https://doi.org/10.1017/S0950268824000955). [**PDF**](http://clifmckee.github.io/files/2024_McKee_Epidemiol_Infect.pdf)
 
 **McKee CD**, Peel AJ, Hayman DTS, Suu-Ire R, Ntiamoa-Baidu Y, Cunningham AA, Wood JLN, Webb CT, Kosoy MY. Ectoparasite and bacterial population genetics and community structure indicate extent of bat movement across an island chain. [Parasitology. 2024; 1–14](https://doi.org/10.1017/S0031182024000660). [**PDF**](http://clifmckee.github.io/files/2024_McKee_Parasitology.pdf)
@@ -109,8 +111,6 @@ Bai Y, Hayman DTS, **McKee CD**, Kosoy MY. Classification of *Bartonella* strain
 ## Preprints
 
 Stevens T, Zimmerman R, Albery G, Becker DJ, Kading R, Keiser CN, Khandelwal S, Kramer-Schadt S, Krut-Landau R, **McKee C**, Montecino-Latorre D, ..., Carlson CJ. A minimum data standard for wildlife disease studies. [EcoEvoRxiv. 2024](https://doi.org/10.32942/x2tw4j). [**PDF**](http://clifmckee.github.io/files/2024_Stevens_EcoEvoRxiv.pdf)
-
-Jackson J<sup>‡</sup>, Shanta IS, **McKee C**, Luby SP, Haider N, Sharker Y, Plowright R, Hudson P, Gurley E. Identifying weather patterns affecting household date palm sap consumption in Bangladesh, 2013-2016. [medRxiv. 2024](https://doi.org/10.1101/2024.05.06.24306951). [**PDF**](http://clifmckee.github.io/files/2024_Jackson_medRxiv.pdf)
 
 **McKee CD**, Webb CT, Kosoy MY, Bai Y, Osikowicz LM, Suu-Ire R, Ntiamoa-Baidu Y, Cunningham AA, Wood JL, Hayman DT. Manipulating vector transmission reveals local processes in bacterial communities of bats. [bioRxiv. 2021](https://doi.org/10.1101/2021.03.03.433743). [**PDF**](http://clifmckee.github.io/files/2021_McKee_bioRxiv.pdf)
 
