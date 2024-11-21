@@ -16,17 +16,17 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 **2024**
 
-Jackson J<sup>‡</sup>, Shanta IS, **McKee C**, Luby SP, Haider N, Sharker Y, Plowright R, Hudson P, Gurley E. Identifying weather patterns affecting household date palm sap consumption in Bangladesh, 2013-2016. [*Accepted at PLOS ONE*](https://doi.org/10.1101/2024.05.06.24306951). [**PDF**](http://clifmckee.github.io/files/2024_Jackson_medRxiv.pdf)
+Jackson J<sup>‡</sup>, Shanta IS, **McKee C**, Luby SP, Haider N, Sharker Y, Plowright R, Hudson P, Gurley ES. Identifying weather patterns affecting household date palm sap consumption in Bangladesh, 2013-2016. [PLoS ONE. 2024; 19(11): e0313904](https://doi.org/10.1371/journal.pone.0313904). [**PDF**](http://clifmckee.github.io/files/2024_Jackson_PLoS_ONE.pdf)
 
 **McKee CD**, Yu EX, Garcia A<sup>‡</sup>, Jackson J<sup>‡</sup>, Koyuncu A, Rose S, Azman AS, Lobner K, Sacks E, Van Kerkhove MD, Gurley ES. Superspreading of SARS-CoV-2: a systematic review and meta-analysis of event attack rates and individual transmission patterns. [Epidemiology & Infection. 2024; 152: e121](https://doi.org/10.1017/S0950268824000955). [**PDF**](http://clifmckee.github.io/files/2024_McKee_Epidemiol_Infect.pdf)
 
-**McKee CD**, Peel AJ, Hayman DTS, Suu-Ire R, Ntiamoa-Baidu Y, Cunningham AA, Wood JLN, Webb CT, Kosoy MY. Ectoparasite and bacterial population genetics and community structure indicate extent of bat movement across an island chain. [Parasitology. 2024; 1–14](https://doi.org/10.1017/S0031182024000660). [**PDF**](http://clifmckee.github.io/files/2024_McKee_Parasitology.pdf)
+**McKee CD**, Peel AJ, Hayman DTS, Suu-Ire R, Ntiamoa-Baidu Y, Cunningham AA, Wood JLN, Webb CT, Kosoy MY. Ectoparasite and bacterial population genetics and community structure indicate extent of bat movement across an island chain. [Parasitology. 2024; 151(17): 708-721](https://doi.org/10.1017/S0031182024000660). [**PDF**](http://clifmckee.github.io/files/2024_McKee_Parasitology.pdf)
 
 Mathis SM, Webber AE, León T, Murray EL, Sun M, White LA, Brooks LC, Green A, Hu AJ, Rosenfeld R, Shemetov D, ..., **McKee CD**, ..., Borchering RK. Evaluation of FluSight influenza forecasting in the 2021–22 and 2022–23 seasons with a new target laboratory-confirmed influenza hospitalizations. [Nature Communications. 2024; 15: 6289](https://doi.org/10.1038/s41467-024-50601-9). [**PDF**](http://clifmckee.github.io/files/2024_Mathis_Nat_Commun.pdf)
 
 Cortes-Azuero O, Lefrancq N, Nikolay B, **McKee C**, Cappelle J, Hul V, Ou TP, Hoem T, Lemey P, Rahman MZ, Islam A, Gurley ES, Duong V, Salje H. The genetic diversity of Nipah virus across spatial scales. [The Journal of Infectious Diseases. 2024; jiae221](https://doi.org/10.1093/infdis/jiae221). [**PDF**](http://clifmckee.github.io/files/2024_Cortes-Azuero_JID.pdf)
 
-Jung S-m, Loo SL, Howerton E, Contamin L, Smith CP, Carcelén EC, Yan K, Bents SJ, Levander J, Espino J, Lemaitre JC, ..., **McKee CD**, ..., Lessler J. Potential impact of annual vaccination with reformulated COVID-19 vaccines: lessons from the US COVID-19 scenario modeling hub. [PLOS Medicine. 2024; 21(4): e1004387](https://doi.org/10.1371/journal.pmed.1004387). [**PDF**](http://clifmckee.github.io/files/2024_Jung_PLoS_Med.pdf)
+Jung S-m, Loo SL, Howerton E, Contamin L, Smith CP, Carcelén EC, Yan K, Bents SJ, Levander J, Espino J, Lemaitre JC, ..., **McKee CD**, ..., Lessler J. Potential impact of annual vaccination with reformulated COVID-19 vaccines: lessons from the US COVID-19 scenario modeling hub. [PLoS Medicine. 2024; 21(4): e1004387](https://doi.org/10.1371/journal.pmed.1004387). [**PDF**](http://clifmckee.github.io/files/2024_Jung_PLoS_Med.pdf)
 
 Lemaitre JC, Loo SL, Kaminsky J, Lee EC, **McKee C**, Smith C, Jung S-m, Sato K, Carcelen E, Hill A, Lessler J, Truelove S. *flepiMoP*: the evolution of a flexible infectious disease modeling pipeline during the COVID-19 pandemic. [Epidemics. 2024; 47: 100753](https://doi.org/10.1016/j.epidem.2024.100753). [**PDF**](http://clifmckee.github.io/files/2024_Lemaitre_Epidemics.pdf)
 
@@ -48,7 +48,7 @@ Goodrich I, **McKee C**, Margos G, Kosoy M. Molecular characterization of a nove
 
 **McKee CD**<sup>†</sup>, Islam A<sup>†</sup>, Rahman MZ, Khan SU, Rahman M, Satter SM, Islam A, Yinda CK, Epstein JH, Daszak P, Munster VJ, Hudson PJ, Plowright RK, Luby SP, Gurley ES. Nipah virus detection at bat roosts after spillover events, Bangladesh, 2012–2019. [Emerging Infectious Diseases. 2022; 28(7): 1384--1392](https://doi.org/10.3201/eid2807.212614). [**PDF**](http://clifmckee.github.io/files/2022_McKee_EID.pdf)
 
-Rice BL<sup>†</sup>, Lessler J<sup>†</sup>, **McKee C**<sup>†</sup>, Metcalf CJE<sup>†</sup>. Why do some coronaviruses become pandemic threats when others do not? [PLOS Biology. 2022; 20(5): e3001652](https://doi.org/10.1371/journal.pbio.3001652). [**PDF**](http://clifmckee.github.io/files/2022_Rice_PLoS_Biol.pdf)
+Rice BL<sup>†</sup>, Lessler J<sup>†</sup>, **McKee C**<sup>†</sup>, Metcalf CJE<sup>†</sup>. Why do some coronaviruses become pandemic threats when others do not? [PLoS Biology. 2022; 20(5): e3001652](https://doi.org/10.1371/journal.pbio.3001652). [**PDF**](http://clifmckee.github.io/files/2022_Rice_PLoS_Biol.pdf)
 
 Ruiz-Aravena M<sup>†</sup>, **McKee C**<sup>†</sup>, Gamble A, Lunn T, Morris A, Snedden CE, Yinda CK, Port JR, Buchholz DW, Yeo YY, Faust C, ..., Munster VJ, Plowright RK. Ecology, evolution and spillover of coronaviruses from bats. [Nature Reviews Microbiology. 2022; 20: 299--314](https://doi.org/10.1038/s41579-021-00652-2). [**PDF**](http://clifmckee.github.io/files/2022_Ruiz-Aravena_Nat_Rev_Microbiol.pdf)
 
@@ -58,7 +58,7 @@ Redd AD, Peetluk LS, Jarrett BA, Hanrahan C, Schwartz S, Rao A, Jaffe AE, Peer A
 
 Islam A, **McKee C**, Ghosh PK, Abedin J, Epstein JH, Daszak P, Luby SP, Khan SU, Gurley ES. Seasonality of date palm sap feeding behavior by bats in Bangladesh. [EcoHealth. 2021; 18: 359--371](https://doi.org/10.1007/s10393-021-01561-9). [**PDF**](http://clifmckee.github.io/files/2021_Islam_EcoHealth.pdf)
 
-Zorrilla VO, Lozano ME, Espada LJ, Kosoy M, **McKee C**, Valdivia HO, Arevalo H, Troyes M, Stoops CA, Fisher ML, Vásquez GM. Comparison of sand fly trapping approaches for vector surveillance of *Leishmania* and *Bartonella* species in ecologically distinct, endemic regions of Peru. [PLOS Neglected Tropical Diseases. 2021; 15(7): e0009517](https://doi.org/10.1371/journal.pntd.0009517). [**PDF**](http://clifmckee.github.io/files/2021_Zorrilla_PLoS_NTD.pdf)
+Zorrilla VO, Lozano ME, Espada LJ, Kosoy M, **McKee C**, Valdivia HO, Arevalo H, Troyes M, Stoops CA, Fisher ML, Vásquez GM. Comparison of sand fly trapping approaches for vector surveillance of *Leishmania* and *Bartonella* species in ecologically distinct, endemic regions of Peru. [PLoS Neglected Tropical Diseases. 2021; 15(7): e0009517](https://doi.org/10.1371/journal.pntd.0009517). [**PDF**](http://clifmckee.github.io/files/2021_Zorrilla_PLoS_NTD.pdf)
 
 **McKee CD**, Islam A, Luby SP, Salje H, Hudson PJ, Plowright RK, Gurley ES. The ecology of Nipah virus in Bangladesh: a nexus of land-use change and opportunistic feeding behavior in bats. [Viruses. 2021; 13(2): 169](https://doi.org/10.3390/v13020169). [**PDF**](http://clifmckee.github.io/files/2021_McKee_Viruses.pdf)
 
@@ -66,7 +66,7 @@ Zorrilla VO, Lozano ME, Espada LJ, Kosoy M, **McKee C**, Valdivia HO, Arevalo H,
 
 **2020**
 
-Goodrich I, **McKee C**, Kosoy M. *Trypanosoma* (*Herpetosoma*) diversity in rodents and lagomorphs of New Mexico with a focus on epizootological aspects of infection in Southern Plains woodrats (*Neotoma micropus*). [PLOS ONE. 2020; 15(12): e0244803](https://doi.org/10.1371/journal.pone.0244803). [**PDF**](http://clifmckee.github.io/files/2020_Goodrich_PLoS_ONE.pdf)
+Goodrich I, **McKee C**, Kosoy M. *Trypanosoma* (*Herpetosoma*) diversity in rodents and lagomorphs of New Mexico with a focus on epizootological aspects of infection in Southern Plains woodrats (*Neotoma micropus*). [PLoS ONE. 2020; 15(12): e0244803](https://doi.org/10.1371/journal.pone.0244803). [**PDF**](http://clifmckee.github.io/files/2020_Goodrich_PLoS_ONE.pdf)
 
 Rudolf I, Blažejová H, Mendel J, Straková P, Šebesta O, Rettich F, Čabanová V, Miterpáková M, Betášová L, Peško J, Barbušinová E, **McKee C**, Osikowicz L, Šikutová S, Hubálek Z, Kosoy M. *Bartonella* species in medically important mosquitoes, Central Europe. [Parasitology Research. 2020; 119(8): 2713--2717](https://doi.org/10.1007/s00436-020-06732-1). [**PDF**](http://clifmckee.github.io/files/2020_Rudolf_Parasitology_Res.pdf)
 
@@ -92,11 +92,11 @@ Gorsich EE, **McKee CD**, Grear DA, Miller RS, Portacci K, Lindström T, Webb CT
 
 **2017**
 
-**McKee CD**, Kosoy MY, Bai Y, Osikowicz LM, Franka R, Gilbert AT, Boonmar S, Rupprecht CE, Peruski LF. Diversity and phylogenetic relationships among *Bartonella* strains from Thai bats. [PLOS ONE. 2017; 12(7): e0181696](https://doi.org/10.1371/journal.pone.0181696). [**PDF**](http://clifmckee.github.io/files/2017_McKee_PLoS_ONE.pdf)
+**McKee CD**, Kosoy MY, Bai Y, Osikowicz LM, Franka R, Gilbert AT, Boonmar S, Rupprecht CE, Peruski LF. Diversity and phylogenetic relationships among *Bartonella* strains from Thai bats. [PLoS ONE. 2017; 12(7): e0181696](https://doi.org/10.1371/journal.pone.0181696). [**PDF**](http://clifmckee.github.io/files/2017_McKee_PLoS_ONE.pdf)
 
-Urushadze L, Bai Y, Osikowicz L, **McKee C**, Sidamonidze K, Putkaradze D, Imnadze P, Kandaurov A, Kuzmin I, Kosoy M. Prevalence, diversity, and host associations of *Bartonella* strains in bats from Georgia (Caucasus). [PLOS Neglected Tropical Diseases. 2017; 11(4): e0005428](https://doi.org/10.1371/journal.pntd.0005428). [**PDF**](http://clifmckee.github.io/files/2017_Urushadze_PLoS_NTD.pdf)
+Urushadze L, Bai Y, Osikowicz L, **McKee C**, Sidamonidze K, Putkaradze D, Imnadze P, Kandaurov A, Kuzmin I, Kosoy M. Prevalence, diversity, and host associations of *Bartonella* strains in bats from Georgia (Caucasus). [PLoS Neglected Tropical Diseases. 2017; 11(4): e0005428](https://doi.org/10.1371/journal.pntd.0005428). [**PDF**](http://clifmckee.github.io/files/2017_Urushadze_PLoS_NTD.pdf)
 
-Bai Y, Urushadze L, Osikowicz L, **McKee C**, Kuzmin I, Kandaurov A, Babuadze G, Natradze I, Imnadze P, Kosoy M. Molecular survey of bacterial zoonotic agents in bats from the country of Georgia (Caucasus). [PLOS ONE. 2017; 12(1): e0171175](https://doi.org/10.1371/journal.pone.0171175). [**PDF**](http://clifmckee.github.io/files/2017_Bai_PLoS_ONE.pdf)
+Bai Y, Urushadze L, Osikowicz L, **McKee C**, Kuzmin I, Kandaurov A, Babuadze G, Natradze I, Imnadze P, Kosoy M. Molecular survey of bacterial zoonotic agents in bats from the country of Georgia (Caucasus). [PLoS ONE. 2017; 12(1): e0171175](https://doi.org/10.1371/journal.pone.0171175). [**PDF**](http://clifmckee.github.io/files/2017_Bai_PLoS_ONE.pdf)
 
 **2016**
 
@@ -106,7 +106,7 @@ Bai Y, Urushadze L, Osikowicz L, **McKee C**, Kuzmin I, Kandaurov A, Babuadze G,
 
 Zinzow-Kramer WM, Horton BM, **McKee CD**, Michaud JM, Tharp GK, Thomas JW, Tuttle EM, Yi S, Maney DL. Genes located in a chromosomal inversion are correlated with territorial song in white-throated sparrows. [Genes, Brain and Behavior. 2015; 14(8): 641--654](https://doi.org/10.1111/gbb.12252). [**PDF**](http://clifmckee.github.io/files/2015_ZinzowKramer_GBB.pdf)
 
-Bai Y, Hayman DTS, **McKee CD**, Kosoy MY. Classification of *Bartonella* strains associated with straw-colored fruit bats (*Eidolon helvum*) across Africa using a multi-locus sequence typing platform. [PLOS Neglected Tropical Diseases. 2015; 9(1): e0003478](https://doi.org/10.1371/journal.pntd.0003478). [**PDF**](http://clifmckee.github.io/files/2015_Bai_PLoS_NTD.pdf)
+Bai Y, Hayman DTS, **McKee CD**, Kosoy MY. Classification of *Bartonella* strains associated with straw-colored fruit bats (*Eidolon helvum*) across Africa using a multi-locus sequence typing platform. [PLoS Neglected Tropical Diseases. 2015; 9(1): e0003478](https://doi.org/10.1371/journal.pntd.0003478). [**PDF**](http://clifmckee.github.io/files/2015_Bai_PLoS_NTD.pdf)
 
 ## Preprints
 
