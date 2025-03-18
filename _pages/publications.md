@@ -114,6 +114,8 @@ Bai Y, Hayman DTS, **McKee CD**, Kosoy MY. Classification of *Bartonella* strain
 
 ## Preprints
 
+Ingala M, Oliveira H, Frank LE, Hussain M, Kazam A, Becker DJ, Cummings C, Dalannast M, Kingston T, Krauel J, Mavian C, **McKee CD**, ..., Lauterbur ME. Bats in Habitats, Bats as Habitats: an integrative ecological framework for understanding synergistic interactions across levels of community organization. [EcoEvoRxiv. 2025](https://doi.org/10.32942/X2RW59). [**PDF**](http://clifmckee.github.io/files/2025_Ingala_EcoEvoRxiv.pdf)
+
 Verrett TB, Falvo CA, Benson E, Jones-Slobodian DN, Crowley DE, Dale AS, Lunn TJ, Ruiz-Aravena M, Bat One Health, **McKee CD**, Clark KL, Peel AJ, Plowright RK, Becker DJ. Black flying foxes in Australia harbor novel *Borrelia* lineages adjacent to zoonotic clades. [bioRxiv. 2024](https://doi.org/10.1101/2024.12.20.629695). [**PDF**](http://clifmckee.github.io/files/2024_Verrett_bioRxiv.pdf)
 
 Stevens T, Zimmerman R, Albery G, Becker DJ, Kading R, Keiser CN, Khandelwal S, Kramer-Schadt S, Krut-Landau R, **McKee C**, Montecino-Latorre D, ..., Carlson CJ. A minimum data standard for wildlife disease studies. [EcoEvoRxiv. 2024](https://doi.org/10.32942/x2tw4j). [**PDF**](http://clifmckee.github.io/files/2024_Stevens_EcoEvoRxiv.pdf)
