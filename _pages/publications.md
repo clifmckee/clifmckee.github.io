@@ -16,7 +16,7 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 **2025**
 
-Niu Y<sup>‡</sup>, **McKee CD**. Bat viral shedding: a review of seasonal patterns and risk factors. [In press at Vector-Borne and Zoonotic Diseases. 2025](https://doi.org/10.1089/vbz.2024.0091). [**PDF**](http://clifmckee.github.io/files/2025_Niu_VBZD.pdf)
+Niu Y<sup>‡</sup>, **McKee CD**. Bat viral shedding: a review of seasonal patterns and risk factors. [Vector-Borne and Zoonotic Diseases. 2025; 25(4): 229--239](https://doi.org/10.1089/vbz.2024.0091). [**PDF**](http://clifmckee.github.io/files/2025_Niu_VBZD.pdf)
 
 **2024**
 
