@@ -16,7 +16,7 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 **2025**
 
-Verrett TB, Falvo CA, Benson E, Jones-Slobodian DN, Crowley DE, Dale AS, Lunn TJ, Ruiz-Aravena M, Rynda-Apple A, **McKee CD**, Clark KL, Gofton AW, Peel AJ, Plowright RK, Becker DJ, Bat One Health. *Borrelia* lineages adjacent to zoonotic clades in black flying foxes (*Pteropus alecto*), Australia, 2018–2020. [Emerging Infectious Diseases. 2025](https://doi.org/10.3201/eid3107.241864). [**PDF**](http://clifmckee.github.io/files/2024_Verrett_bioRxiv.pdf)
+Verrett TB, Falvo CA, Benson E, Jones-Slobodian DN, Crowley DE, Dale AS, Lunn TJ, Ruiz-Aravena M, Rynda-Apple A, **McKee CD**, Clark KL, Gofton AW, Peel AJ, Plowright RK, Becker DJ, Bat One Health. *Borrelia* lineages adjacent to zoonotic clades in black flying foxes (*Pteropus alecto*), Australia, 2018–2020. [Emerging Infectious Diseases. 2025](https://wwwnc.cdc.gov/eid/article/31/7/24-1864_article). [**PDF**](http://clifmckee.github.io/files/2024_Verrett_bioRxiv.pdf)
 
 Niu Y<sup>‡</sup>, **McKee CD**. Bat viral shedding: a review of seasonal patterns and risk factors. [Vector-Borne and Zoonotic Diseases. 2025; 25(4): 229--239](https://doi.org/10.1089/vbz.2024.0091). [**PDF**](http://clifmckee.github.io/files/2025_Niu_VBZD.pdf)
 
