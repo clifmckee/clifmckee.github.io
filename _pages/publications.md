@@ -16,7 +16,9 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 **2025**
 
-Verrett TB, Falvo CA, Benson E, Jones-Slobodian DN, Crowley DE, Dale AS, Lunn TJ, Ruiz-Aravena M, Rynda-Apple A, **McKee CD**, Clark KL, Gofton AW, Peel AJ, Plowright RK, Becker DJ, Bat One Health. *Borrelia* lineages adjacent to zoonotic clades in black flying foxes (*Pteropus alecto*), Australia, 2018–2020. [Emerging Infectious Diseases. 2025](https://wwwnc.cdc.gov/eid/article/31/7/24-1864_article). [**PDF**](http://clifmckee.github.io/files/2024_Verrett_bioRxiv.pdf)
+Schwantes CJ, Sánchez CA, Stevens T, Zimmerman R, Albery G, Becker DJ, Brookson CB, Kading RC, Keiser CN, Khandelwal S, Kramer-Schadt S, ..., **McKee C**, ..., Carlson CJ. A minimum data standard for wildlife disease research and surveillance. [Scientific Data. 2025; 12: 1054](https://doi.org/10.1038/s41597-025-05332-x). [**PDF**](http://clifmckee.github.io/files/2025_Schwantes_SciData.pdf)
+
+Verrett TB, Falvo CA, Benson E, Jones-Slobodian DN, Crowley DE, Dale AS, Lunn TJ, Ruiz-Aravena M, Rynda-Apple A, **McKee CD**, Clark KL, Gofton AW, Peel AJ, Plowright RK, Becker DJ, Bat One Health. *Borrelia* lineages adjacent to zoonotic clades in black flying foxes (*Pteropus alecto*), Australia, 2018–2020. [Emerging Infectious Diseases. 2025; 31(7): 1415--1420](https://doi.org/10.3201/eid3107.241864). [**PDF**](http://clifmckee.github.io/files/2025_Verrett_EID.pdf)
 
 Niu Y<sup>‡</sup>, **McKee CD**. Bat viral shedding: a review of seasonal patterns and risk factors. [Vector-Borne and Zoonotic Diseases. 2025; 25(4): 229--239](https://doi.org/10.1089/vbz.2024.0091). [**PDF**](http://clifmckee.github.io/files/2025_Niu_VBZD.pdf)
 
@@ -117,8 +119,6 @@ Bai Y, Hayman DTS, **McKee CD**, Kosoy MY. Classification of *Bartonella* strain
 ## Preprints
 
 Ingala M, Oliveira H, Frank LE, Hussain M, Kazam A, Becker DJ, Cummings C, Dalannast M, Kingston T, Krauel J, Mavian C, **McKee CD**, ..., Lauterbur ME. Bats in Habitats, Bats as Habitats: an integrative ecological framework for understanding synergistic interactions across levels of community organization. [EcoEvoRxiv. 2025](https://doi.org/10.32942/X2RW59). [**PDF**](http://clifmckee.github.io/files/2025_Ingala_EcoEvoRxiv.pdf)
-
-Stevens T, Zimmerman R, Albery G, Becker DJ, Kading R, Keiser CN, Khandelwal S, Kramer-Schadt S, Krut-Landau R, **McKee C**, Montecino-Latorre D, ..., Carlson CJ. A minimum data standard for wildlife disease studies. [EcoEvoRxiv. 2024](https://doi.org/10.32942/x2tw4j). [**PDF**](http://clifmckee.github.io/files/2024_Stevens_EcoEvoRxiv.pdf)
 
 **McKee CD**, Webb CT, Kosoy MY, Bai Y, Osikowicz LM, Suu-Ire R, Ntiamoa-Baidu Y, Cunningham AA, Wood JL, Hayman DT. Manipulating vector transmission reveals local processes in bacterial communities of bats. [bioRxiv. 2021](https://doi.org/10.1101/2021.03.03.433743). [**PDF**](http://clifmckee.github.io/files/2021_McKee_bioRxiv.pdf)
 
