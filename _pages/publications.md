@@ -16,6 +16,8 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 **2025**
 
+Bradburne C, Islam A, Bird I, Abbott E, Harrison S, Chunn M, Radune D, Hasan MR, Janes B, Lovett S, Lagergren J, ..., **McKee C**, ..., Gurley ES. Genomic surveillance detection of SARSCoV-1--like viruses in Rhinolophidae bats, Bandarban Region, Bangladesh. [Emerging Infectious Diseases. 2025; 31(8): 1652--1656](https://doi.org/10.3201/eid3108.250071). [**PDF**](http://clifmckee.github.io/files/2025_Bradburne_EID.pdf)
+
 Schwantes CJ, Sánchez CA, Stevens T, Zimmerman R, Albery G, Becker DJ, Brookson CB, Kading RC, Keiser CN, Khandelwal S, Kramer-Schadt S, ..., **McKee C**, ..., Carlson CJ. A minimum data standard for wildlife disease research and surveillance. [Scientific Data. 2025; 12: 1054](https://doi.org/10.1038/s41597-025-05332-x). [**PDF**](http://clifmckee.github.io/files/2025_Schwantes_SciData.pdf)
 
 Verrett TB, Falvo CA, Benson E, Jones-Slobodian DN, Crowley DE, Dale AS, Lunn TJ, Ruiz-Aravena M, Rynda-Apple A, **McKee CD**, Clark KL, Gofton AW, Peel AJ, Plowright RK, Becker DJ, Bat One Health. *Borrelia* lineages adjacent to zoonotic clades in black flying foxes (*Pteropus alecto*), Australia, 2018–2020. [Emerging Infectious Diseases. 2025; 31(7): 1415--1420](https://doi.org/10.3201/eid3107.241864). [**PDF**](http://clifmckee.github.io/files/2025_Verrett_EID.pdf)
