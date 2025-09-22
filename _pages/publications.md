@@ -16,6 +16,8 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 **2025**
 
+Loo SL, Jung SM, Contamin L, Howerton E, Bents SJ, Hochheiser H, Runge MC, Smith CP, Carcelén EC, Yan K, Lemaitre JC, ..., **McKee C**, ...,  Shea K, Viboud C, Lessler J, Truelove S. Scenario projections of COVID-19 burden in the US, 2024-2025. [JAMA Network Open. 2025; 8(9): e2532469](https://doi.org/10.1001/jamanetworkopen.2025.32469). [**PDF**](http://clifmckee.github.io/files/2025_Loo_JAMA_Netw_Open.pdf)
+
 Bradburne C, Islam A, Bird I, Abbott E, Harrison S, Chunn M, Radune D, Hasan MR, Janes B, Lovett S, Lagergren J, ..., **McKee C**, ..., Gurley ES. Genomic surveillance detection of SARSCoV-1--like viruses in Rhinolophidae bats, Bandarban Region, Bangladesh. [Emerging Infectious Diseases. 2025; 31(8): 1652--1656](https://doi.org/10.3201/eid3108.250071). [**PDF**](http://clifmckee.github.io/files/2025_Bradburne_EID.pdf)
 
 Schwantes CJ, Sánchez CA, Stevens T, Zimmerman R, Albery G, Becker DJ, Brookson CB, Kading RC, Keiser CN, Khandelwal S, Kramer-Schadt S, ..., **McKee C**, ..., Carlson CJ. A minimum data standard for wildlife disease research and surveillance. [Scientific Data. 2025; 12: 1054](https://doi.org/10.1038/s41597-025-05332-x). [**PDF**](http://clifmckee.github.io/files/2025_Schwantes_SciData.pdf)
