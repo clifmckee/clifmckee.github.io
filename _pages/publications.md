@@ -16,6 +16,10 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 **2025**
 
+Crowley D, Falvo C, Grant C, Borremans B, Lunn T, Ruiz-Aravena M, Benson E, McKee C, Becker D, Jones D, Bushmaker T, Yu Y, Michie M, Dale A, Yan L, Sterling S, Broder C, Goodman L, Petraitytė-Burneikienė R, Laing E, Smith I, Munster V, Rynda-Apple A, Peel A, Plowright R. Cohorts of immature *Pteropus* bats show interannual variation in Hendra virus serology. *Accepted at Journal of Animal Ecology*.
+
+Šikutová S, Mravcová K, Mendel J, Šebesta O, Sak B, Holubová N, Kváč M, **McKee C**, Adler PH, Otranto D, Rudolf I. Molecular screening of black flies (Diptera: Simuliidae) for vector-borne zoonotic pathogens, South Moravia, Czech Republic. [In press at Zoonoses and Public Health. 2025](https://doi.org/10.1111/zph.70031). [**PDF**](http://clifmckee.github.io/files/2025_Sikutova_ZPH.pdf)
+
 Loo SL, Jung SM, Contamin L, Howerton E, Bents SJ, Hochheiser H, Runge MC, Smith CP, Carcelén EC, Yan K, Lemaitre JC, ..., **McKee C**, ...,  Shea K, Viboud C, Lessler J, Truelove S. Scenario projections of COVID-19 burden in the US, 2024-2025. [JAMA Network Open. 2025; 8(9): e2532469](https://doi.org/10.1001/jamanetworkopen.2025.32469). [**PDF**](http://clifmckee.github.io/files/2025_Loo_JAMA_Netw_Open.pdf)
 
 Bradburne C, Islam A, Bird I, Abbott E, Harrison S, Chunn M, Radune D, Hasan MR, Janes B, Lovett S, Lagergren J, ..., **McKee C**, ..., Gurley ES. Genomic surveillance detection of SARSCoV-1--like viruses in Rhinolophidae bats, Bandarban Region, Bangladesh. [Emerging Infectious Diseases. 2025; 31(8): 1652--1656](https://doi.org/10.3201/eid3108.250071). [**PDF**](http://clifmckee.github.io/files/2025_Bradburne_EID.pdf)
@@ -38,9 +42,9 @@ Mathis SM, Webber AE, León T, Murray EL, Sun M, White LA, Brooks LC, Green A, H
 
 Cortes-Azuero O, Lefrancq N, Nikolay B, **McKee C**, Cappelle J, Hul V, Ou TP, Hoem T, Lemey P, Rahman MZ, Islam A, Gurley ES, Duong V, Salje H. The genetic diversity of Nipah virus across spatial scales. [The Journal of Infectious Diseases. 2024; 230(6): e1235--e1244](https://doi.org/10.1093/infdis/jiae221). [**PDF**](http://clifmckee.github.io/files/2024_CortesAzuero_JID.pdf)
 
-Jung S-m, Loo SL, Howerton E, Contamin L, Smith CP, Carcelén EC, Yan K, Bents SJ, Levander J, Espino J, Lemaitre JC, ..., **McKee CD**, ..., Lessler J. Potential impact of annual vaccination with reformulated COVID-19 vaccines: lessons from the US COVID-19 scenario modeling hub. [PLOS Medicine. 2024; 21(4): e1004387](https://doi.org/10.1371/journal.pmed.1004387). [**PDF**](http://clifmckee.github.io/files/2024_Jung_PMed.pdf)
+Jung SM, Loo SL, Howerton E, Contamin L, Smith CP, Carcelén EC, Yan K, Bents SJ, Levander J, Espino J, Lemaitre JC, ..., **McKee CD**, ..., Lessler J. Potential impact of annual vaccination with reformulated COVID-19 vaccines: lessons from the US COVID-19 scenario modeling hub. [PLOS Medicine. 2024; 21(4): e1004387](https://doi.org/10.1371/journal.pmed.1004387). [**PDF**](http://clifmckee.github.io/files/2024_Jung_PMed.pdf)
 
-Lemaitre JC, Loo SL, Kaminsky J, Lee EC, **McKee C**, Smith C, Jung S-m, Sato K, Carcelen E, Hill A, Lessler J, Truelove S. *flepiMoP*: the evolution of a flexible infectious disease modeling pipeline during the COVID-19 pandemic. [Epidemics. 2024; 47: 100753](https://doi.org/10.1016/j.epidem.2024.100753). [**PDF**](http://clifmckee.github.io/files/2024_Lemaitre_Epidemics.pdf)
+Lemaitre JC, Loo SL, Kaminsky J, Lee EC, **McKee C**, Smith C, Jung SM, Sato K, Carcelen E, Hill A, Lessler J, Truelove S. *flepiMoP*: the evolution of a flexible infectious disease modeling pipeline during the COVID-19 pandemic. [Epidemics. 2024; 47: 100753](https://doi.org/10.1016/j.epidem.2024.100753). [**PDF**](http://clifmckee.github.io/files/2024_Lemaitre_Epidemics.pdf)
 
 **2023**
 
