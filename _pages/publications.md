@@ -14,15 +14,19 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 <sup>†</sup>Equal contribution, <sup>‡</sup>Student advisee
 
-**2025**
+**2026**
+
+Jones BD, Falvo CA, Burwell C, Lunn TJ, Jones-Slobodian DN, Benson E, **McKee CD**, Rynda-Apple A, Plowright RK, Becker DJ, Clark KL, McCallum H, Clark NJ, Peel AJ. Asynchronous seasonal dynamics of nycteribiid bat flies and *Bartonella* spp. in Australian flying foxes (*Pteropus* spp.). *Accepted at Parasites & Vectors*.
 
 Crowley D, Falvo C, Grant C, Borremans B, Lunn T, Ruiz-Aravena M, Benson E, McKee C, Becker D, Jones D, Bushmaker T, Yu Y, Michie M, Dale A, Yan L, Sterling S, Broder C, Goodman L, Petraitytė-Burneikienė R, Laing E, Smith I, Munster V, Rynda-Apple A, Peel A, Plowright R. Cohorts of immature *Pteropus* bats show interannual variation in Hendra virus serology. *Accepted at Journal of Animal Ecology*.
 
-Šikutová S, Mravcová K, Mendel J, Šebesta O, Sak B, Holubová N, Kváč M, **McKee C**, Adler PH, Otranto D, Rudolf I. Molecular screening of black flies (Diptera: Simuliidae) for vector-borne zoonotic pathogens, South Moravia, Czech Republic. [In press at Zoonoses and Public Health. 2025](https://doi.org/10.1111/zph.70031). [**PDF**](http://clifmckee.github.io/files/2025_Sikutova_ZPH.pdf)
+Šikutová S, Mravcová K, Mendel J, Šebesta O, Sak B, Holubová N, Kváč M, **McKee C**, Adler PH, Otranto D, Rudolf I. Molecular screening of black flies (Diptera: Simuliidae) for vector-borne zoonotic pathogens, South Moravia, Czech Republic. [Zoonoses and Public Health. 2025; 73(1): 95--106](https://doi.org/10.1111/zph.70031). [**PDF**](http://clifmckee.github.io/files/2026_Sikutova_ZPH.pdf)
+
+**2025**
 
 Loo SL, Jung SM, Contamin L, Howerton E, Bents SJ, Hochheiser H, Runge MC, Smith CP, Carcelén EC, Yan K, Lemaitre JC, ..., **McKee C**, ...,  Shea K, Viboud C, Lessler J, Truelove S. Scenario projections of COVID-19 burden in the US, 2024-2025. [JAMA Network Open. 2025; 8(9): e2532469](https://doi.org/10.1001/jamanetworkopen.2025.32469). [**PDF**](http://clifmckee.github.io/files/2025_Loo_JAMA_Netw_Open.pdf)
 
-Bradburne C, Islam A, Bird I, Abbott E, Harrison S, Chunn M, Radune D, Hasan MR, Janes B, Lovett S, Lagergren J, ..., **McKee C**, ..., Gurley ES. Genomic surveillance detection of SARSCoV-1--like viruses in Rhinolophidae bats, Bandarban Region, Bangladesh. [Emerging Infectious Diseases. 2025; 31(8): 1652--1656](https://doi.org/10.3201/eid3108.250071). [**PDF**](http://clifmckee.github.io/files/2025_Bradburne_EID.pdf)
+Bradburne C, Islam A, Bird I, Abbott E, Harrison S, Chunn M, Radune D, Hasan MR, Janes B, Lovett S, Lagergren J, O'Hanlon T, Debnath K, **McKee C**, Hossain ME, Gallagher M, Jacobson D, Rahman MZ, Caviness K, Plowright RK, Gurley ES. Genomic surveillance detection of SARSCoV-1--like viruses in Rhinolophidae bats, Bandarban Region, Bangladesh. [Emerging Infectious Diseases. 2025; 31(8): 1652--1656](https://doi.org/10.3201/eid3108.250071). [**PDF**](http://clifmckee.github.io/files/2025_Bradburne_EID.pdf)
 
 Schwantes CJ, Sánchez CA, Stevens T, Zimmerman R, Albery G, Becker DJ, Brookson CB, Kading RC, Keiser CN, Khandelwal S, Kramer-Schadt S, ..., **McKee C**, ..., Carlson CJ. A minimum data standard for wildlife disease research and surveillance. [Scientific Data. 2025; 12: 1054](https://doi.org/10.1038/s41597-025-05332-x). [**PDF**](http://clifmckee.github.io/files/2025_Schwantes_SciData.pdf)
 
