@@ -18,9 +18,9 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 Jones BD, Falvo CA, Burwell C, Lunn TJ, Jones-Slobodian DN, Benson E, **McKee CD**, Rynda-Apple A, Plowright RK, Becker DJ, Clark KL, McCallum H, Clark NJ, Peel AJ. Asynchronous seasonal dynamics of nycteribiid bat flies and *Bartonella* spp. in Australian flying foxes (*Pteropus* spp.). *Accepted at Parasites & Vectors*.
 
-Crowley D, Falvo C, Grant C, Borremans B, Lunn T, Ruiz-Aravena M, Benson E, McKee C, Becker D, Jones D, Bushmaker T, Yu Y, Michie M, Dale A, Yan L, Sterling S, Broder C, Goodman L, Petraitytė-Burneikienė R, Laing E, Smith I, Munster V, Rynda-Apple A, Peel A, Plowright R. Cohorts of immature *Pteropus* bats show interannual variation in Hendra virus serology. *Accepted at Journal of Animal Ecology*.
+Crowley D, Falvo C, Grant C, Borremans B, Lunn T, Ruiz-Aravena M, Benson E, McKee C, Becker D, Jones D, Bushmaker T, Yu Y, Michie M, Dale A, Yan L, Sterling S, Broder C, Goodman L, Petraitytė-Burneikienė R, Laing E, Smith I, Munster V, Rynda-Apple A, Peel A, Plowright R. Cohorts of immature *Pteropus* bats show interannual variation in Hendra virus serology. *In press at Journal of Animal Ecology*.
 
-Šikutová S, Mravcová K, Mendel J, Šebesta O, Sak B, Holubová N, Kváč M, **McKee C**, Adler PH, Otranto D, Rudolf I. Molecular screening of black flies (Diptera: Simuliidae) for vector-borne zoonotic pathogens, South Moravia, Czech Republic. [Zoonoses and Public Health. 2026; 73(1): 95--106](https://doi.org/10.1111/zph.70031). [**PDF**](http://clifmckee.github.io/files/2026_Sikutova_ZPH.pdf)
+Šikutová S<sup>†</sup>, Mravcová K<sup>†</sup>, Mendel J, Šebesta O, Sak B, Holubová N, Kváč M, **McKee C**, Adler PH, Otranto D, Rudolf I. Molecular screening of black flies (Diptera: Simuliidae) for vector-borne zoonotic pathogens, South Moravia, Czech Republic. [Zoonoses and Public Health. 2026; 73(1): 95--106](https://doi.org/10.1111/zph.70031). [**PDF**](http://clifmckee.github.io/files/2026_Sikutova_ZPH.pdf)
 
 **2025**
 
