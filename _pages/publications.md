@@ -16,9 +16,11 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 **2026**
 
-Jones BD, Falvo CA, Burwell C, Lunn TJ, Jones-Slobodian DN, Benson E, **McKee CD**, Rynda-Apple A, Plowright RK, Becker DJ, Clark KL, McCallum H, Clark NJ, Peel AJ. Asynchronous seasonal dynamics of nycteribiid bat flies and *Bartonella* spp. in Australian flying foxes (*Pteropus* spp.). *Accepted at Parasites & Vectors*.
+**McKee CD**, Webb CT, Kosoy MY, Suu-Ire R, Ntiamoa-Baidu Y, Cunningham AA, Wood JLN, Hayman DTS. Manipulating vector transmission reveals local processes in *Bartonella* communities of bats. [Parasitology. 2026](https://doi.org/10.1017/S0031182026101656). [**PDF**](http://clifmckee.github.io/files/2026_McKee_Parasitology.pdf)
 
-Crowley D, Falvo C, Grant C, Borremans B, Lunn T, Ruiz-Aravena M, Benson E, McKee C, Becker D, Jones D, Bushmaker T, Yu Y, Michie M, Dale A, Yan L, Sterling S, Broder C, Goodman L, Petraitytė-Burneikienė R, Laing E, Smith I, Munster V, Rynda-Apple A, Peel A, Plowright R. Cohorts of immature *Pteropus* bats show interannual variation in Hendra virus serology. *In press at Journal of Animal Ecology*.
+Crowley DE, Falvo CA, Grant CK, Borremans B, Lunn TJ, Ruiz-Aravena M, Benson E, **McKee CD**, Becker DJ, Jones DN, Bushmaker T, Tina Yu Y, Michie M, Dale AS, Yan L, Sterling SL, Broder CC, Goodman LB, Petraityte-Burneikiene R, Laing ED, Smith IL, Munster VJ, Rynda-Apple A, Peel AJ, Plowright R. Cohorts of immature *Pteropus* bats show interannual variation in Hendra virus serology. [Journal of Animal Ecology. 2026](http://doi.org/10.1111/1365-2656.70213). [**PDF**](http://clifmckee.github.io/files/2026_Crowley_JAE.pdf)
+
+Jones BD, Falvo CA, Burwell C, Lunn TJ, Jones-Slobodian DN, Benson E, **McKee CD**, Rynda-Apple A, Plowright RK, Becker DJ, Clark KL, McCallum H, Clark NJ, Peel AJ. Asynchronous seasonal dynamics of nycteribiid bat flies and *Bartonella* spp. in Australian flying foxes (*Pteropus* spp.). [Accepted at Parasites & Vectors. 2026](https://doi.org/10.1186/s13071-026-07243-1) [**PDF**](http://clifmckee.github.io/files/2026_Jones_Parasites_Vectors.pdf)
 
 Šikutová S<sup>†</sup>, Mravcová K<sup>†</sup>, Mendel J, Šebesta O, Sak B, Holubová N, Kváč M, **McKee C**, Adler PH, Otranto D, Rudolf I. Molecular screening of black flies (Diptera: Simuliidae) for vector-borne zoonotic pathogens, South Moravia, Czech Republic. [Zoonoses and Public Health. 2026; 73(1): 95--106](https://doi.org/10.1111/zph.70031). [**PDF**](http://clifmckee.github.io/files/2026_Sikutova_ZPH.pdf)
 
@@ -131,8 +133,6 @@ Bai Y, Hayman DTS, **McKee CD**, Kosoy MY. Classification of *Bartonella* strain
 ## Preprints
 
 Ingala M, Oliveira H, Frank LE, Hussain M, Kazam A, Becker DJ, Cummings C, Dalannast M, Kingston T, Krauel J, Mavian C, **McKee CD**, ..., Lauterbur ME. Bats in Habitats, Bats as Habitats: an integrative ecological framework for understanding synergistic interactions across levels of community organization. [EcoEvoRxiv. 2025](https://doi.org/10.32942/X2RW59). [**PDF**](http://clifmckee.github.io/files/2025_Ingala_EcoEvoRxiv.pdf)
-
-**McKee CD**, Webb CT, Kosoy MY, Bai Y, Osikowicz LM, Suu-Ire R, Ntiamoa-Baidu Y, Cunningham AA, Wood JL, Hayman DT. Manipulating vector transmission reveals local processes in bacterial communities of bats. [bioRxiv. 2021](https://doi.org/10.1101/2021.03.03.433743). [**PDF**](http://clifmckee.github.io/files/2021_McKee_bioRxiv.pdf)
 
 ## Other contributions
 
