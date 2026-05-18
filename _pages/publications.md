@@ -16,6 +16,8 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 **2026**
 
+Zorrilla VO, Carrazco-Montalvo A, Espada LJ, Fárez-Noblecilla L, Lozano ME, Kosoy M, **McKee C**, Stoops CA, Larson RT, León R, Vásquez GM. Phlebotomine sand fly fauna characterization and *Bartonella bacilliformis* DNA detection in *Pintomyia (Pifanomyia) robusta* at the Ecuador-Peru frontier. [PLOS Neglected Tropical Diseases. 2026; 20(5): e0014288](https://doi.org/10.1371/journal.pntd.0014288). [**PDF**](http://clifmckee.github.io/files/2026_Zorrilla_PNTD.pdf)
+
 **McKee CD**, Webb CT, Kosoy MY, Suu-Ire R, Ntiamoa-Baidu Y, Cunningham AA, Wood JLN, Hayman DTS. Manipulating vector transmission reveals local processes in *Bartonella* communities of bats. [Parasitology. 2026](https://doi.org/10.1017/S0031182026101656). [**PDF**](http://clifmckee.github.io/files/2026_McKee_Parasitology.pdf)
 
 Crowley DE, Falvo CA, Grant CK, Borremans B, Lunn TJ, Ruiz-Aravena M, Benson E, **McKee CD**, Becker DJ, Jones DN, Bushmaker T, Tina Yu Y, Michie M, Dale AS, Yan L, Sterling SL, Broder CC, Goodman LB, Petraityte-Burneikiene R, Laing ED, Smith IL, Munster VJ, Rynda-Apple A, Peel AJ, Plowright R. Cohorts of immature *Pteropus* bats show interannual variation in Hendra virus serology. [Journal of Animal Ecology. 2026; 95(3): 521--537](http://doi.org/10.1111/1365-2656.70213). [**PDF**](http://clifmckee.github.io/files/2026_Crowley_JAE.pdf)
