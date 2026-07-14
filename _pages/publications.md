@@ -16,6 +16,8 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 **2026**
 
+Li Z, Chen Y, Sun Y, **McKee C**, McArthur K, Carnes MU, Liu T, Mueller NT, Page GP, Rosman L, Smirnova E, White JD, Kress AM, Debelius JW. In harmony? A scoping review of methods to combine multiple 16S amplicon data sets. *Accepted at AJE Advances: Research in Epidemiology*. 2026.
+
 Zorrilla VO, Carrazco-Montalvo A, Espada LJ, Fárez-Noblecilla L, Lozano ME, Kosoy M, **McKee C**, Stoops CA, Larson RT, León R, Vásquez GM. Phlebotomine sand fly fauna characterization and *Bartonella bacilliformis* DNA detection in *Pintomyia (Pifanomyia) robusta* at the Ecuador-Peru frontier. [PLOS Neglected Tropical Diseases. 2026; 20(5): e0014288](https://doi.org/10.1371/journal.pntd.0014288). [**PDF**](http://clifmckee.github.io/files/2026_Zorrilla_PNTD.pdf)
 
 **McKee CD**, Webb CT, Kosoy MY, Suu-Ire R, Ntiamoa-Baidu Y, Cunningham AA, Wood JLN, Hayman DTS. Manipulating vector transmission reveals local processes in *Bartonella* communities of bats. [Parasitology. 2026; 153(3): 420--431](https://doi.org/10.1017/S0031182026101656). [**PDF**](http://clifmckee.github.io/files/2026_McKee_Parasitology.pdf)
