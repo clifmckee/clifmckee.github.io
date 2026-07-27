@@ -16,7 +16,7 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 **2026**
 
-Li Z, Chen Y, Sun Y, **McKee C**, McArthur K, Carnes MU, Liu T, Mueller NT, Page GP, Rosman L, Smirnova E, White JD, Kress AM, Debelius JW. In harmony? A scoping review of methods to combine multiple 16S amplicon data sets. *Accepted at AJE Advances: Research in Epidemiology*. 2026.
+Li Z, Chen Y, Sun Y, **McKee C**, McArthur K, Carnes MU, Liu T, Mueller NT, Page GP, Rosman L, Smirnova E, White JD, Kress AM, Debelius JW. In harmony? A scoping review of methods to combine multiple 16S amplicon data sets. [*In press at AJE Advances: Research in Epidemiology*. 2026](https://doi.org/10.1093/ajeadv/uuag029). [**PDF**](http://clifmckee.github.io/files/2026_Li_AJE_Adv_Res_Epidemiol.pdf)
 
 Zorrilla VO, Carrazco-Montalvo A, Espada LJ, Fárez-Noblecilla L, Lozano ME, Kosoy M, **McKee C**, Stoops CA, Larson RT, León R, Vásquez GM. Phlebotomine sand fly fauna characterization and *Bartonella bacilliformis* DNA detection in *Pintomyia (Pifanomyia) robusta* at the Ecuador-Peru frontier. [PLOS Neglected Tropical Diseases. 2026; 20(5): e0014288](https://doi.org/10.1371/journal.pntd.0014288). [**PDF**](http://clifmckee.github.io/files/2026_Zorrilla_PNTD.pdf)
 
