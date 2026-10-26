@@ -16,7 +16,7 @@ Follow my research on [Google Scholar](https://scholar.google.com/citations?user
 
 **2026**
 
-Debnath K, Sarker BR, Siddique SS, Rahman MA, Rahman MM, Al Noman Z, Raquib A, Anisuzzaman, **McKee C**, Islam A. Epidemiology of ectoparasites in different domestic, peri-domestic, and wild animals in Bangladesh: a systematic review and meta-analysis. [*In press at Preventive Veterinary Medicine: Regional Studies and Reports*. 2026](https://doi.org/10.1016/j.pvmrsr.2026.100060). [**PDF**](http://clifmckee.github.io/files/2026_Debnath_PVMRSR.pdf)
+Debnath K, Sarker BR, Siddique SS, Rahman MA, Rahman MM, Al Noman Z, Raquib A, Anisuzzaman, **McKee C**, Islam A. Epidemiology of ectoparasites in different domestic, peri-domestic, and wild animals in Bangladesh: a systematic review and meta-analysis. [Preventive Veterinary Medicine: Regional Studies and Reports. 2026; 1(3): 100060](https://doi.org/10.1016/j.pvmrsr.2026.100060). [**PDF**](http://clifmckee.github.io/files/2026_Debnath_PVMRSR.pdf)
 
 Li Z, Chen Y, Sun Y, **McKee C**, McArthur K, Carnes MU, Liu T, Mueller NT, Page GP, Rosman L, Smirnova E, White JD, Kress AM, Debelius JW. In harmony? A scoping review of methods to combine multiple 16S amplicon data sets. [AJE Advances: Research in Epidemiology. 2026; 2(3): uuag029](https://doi.org/10.1093/ajeadv/uuag029). [**PDF**](http://clifmckee.github.io/files/2026_Li_AJE_Adv_Res_Epidemiol.pdf)
 
